@@ -6,7 +6,8 @@ title: The awesome folks in CERL
 ### Faculty
 
 #### Danny Caballero
-This is Danny!
+{% include figure.html image="/assets/img/dc.jpeg" position="left" width="120px" %}
+This is Danny, and this is the energy he brings to this group.
 
 #### Brian O'Shea
 This is Brian!
