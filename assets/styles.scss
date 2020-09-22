@@ -19,7 +19,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Californian, serif",
+  font-family: "Georgia, serif",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -27,10 +27,11 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: 'Gotham, serif',
+  font-family: 'Montserrat, sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
 @import "alembic";
