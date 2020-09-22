@@ -28,4 +28,4 @@ This is Rachel!
 
 #### Nat Hawkins
 {% include figure.html image="/assets/img/headshot_reduced.jpg" position="left" width="120px" %}
-Nat is a former post-bac researcher with CERL. He is currently a PhD student in CMSE working with Dr. Arjun Krishnan. Check him out [here](www.nathawkins.info).
+Nat is a former post-bac researcher with CERL. He is currently a PhD student in CMSE working with Dr. Arjun Krishnan. Check him out [here](https://www.nathawkins.info).
