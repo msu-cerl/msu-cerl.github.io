@@ -23,13 +23,13 @@ plugins:
 url: 'https://msu-cerl.github.io'
 baseurl: ''
 title: 'MSU CERL'
-description: 'Comutational Education Research Lab at MSU'
+description: 'Computational Education Research Lab at Michigan State University'
 permalink: pretty
 logo: "/assets/img/logo.png"
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: /blog/page:num
 
 # Header nav
 navigation_header:
@@ -42,8 +42,8 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: Return to Home
+  url: .
 
 # Collections
 collections:
