@@ -1,0 +1,20 @@
+---
+title: false
+styles: true
+---
+// Background Colors
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #05bf85 !default;
+
+// Text colours
+$headingColour: #18453B !default;
+$bodyColour: #384743 !default;
+$linkColour: #18453B !default;
+$hoverColour: #0db14b !default;
+$focusColour: #fa407a !default;
+$captionColour: #a8adac !default;
+$white: #ffffff !default;
+
+@import "alembic";
