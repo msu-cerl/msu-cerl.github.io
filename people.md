@@ -7,7 +7,7 @@ title: The awesome folks in CERL
 
 #### Danny Caballero
 {% include figure.html image="/assets/img/dc.jpeg" position="left" width="120px" %}
-This is Danny, and this is the energy he brings to this group.
+Danny is an Associate Professor in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He holds the Lappan-Phillips Chair of Physics Education, co-directs the [Phyics Education Research Lab](https://perl.natsci.msu.edu), and is the principal investigator of the [Learning Machines Lab]. He earn his Bachelor's degree in physics from the University of Texas at Austin, abd his Master's and PhD in physics from the Georgia Institute of Technology. Danny worked as a Science Teaching Postdoctoral Fellow at the University of Colorado Boulder before joining the faculty at Michigan State. His research focuses on computational education and the use of data science to address questions in STEM education.
 
 #### Brian O'Shea
 This is Brian!
