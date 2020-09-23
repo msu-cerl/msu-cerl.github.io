@@ -1,7 +1,7 @@
 ---
 title: Computational Education Research Lab @ MSU
 layout: page
-aside: False
+aside: True
 #feature_image: "https://picsum.photos/1300/400?image=989"
 feature_image: "/assets/img/foggy_michigan.jpg" #image found here: https://images.app.goo.gl/Z6X1KbgBkZsMsbou6
 #feature_text: |
