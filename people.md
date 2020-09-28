@@ -7,11 +7,11 @@ title: The awesome folks in CERL
 
 #### Danny Caballero
 {% include figure.html image="/assets/img/dc.jpeg" position="left" width="120px" %}
-Danny is an Associate Professor in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He holds the Lappan-Phillips Chair of Physics Education, co-directs the [Physics Education Research Lab](https://perl.natsci.msu.edu), and is the principal investigator of the [Learning Machines Lab](https://learningmachineslab.github.io). He earn his Bachelor's degree in physics from the [University of Texas at Austin](https://ph.utexas.edu), and his Master's and PhD in physics from the [Georgia Institute of Technology](https://physics.gatech.edu). Danny worked as a Science Teaching Postdoctoral Fellow at the [University of Colorado Boulder](https://www.colorado.edu/physics) before joining the faculty at Michigan State. His research focuses on computational education and the use of data science to address questions in STEM education. In his free time, he bikes, skateboards, and barbecues. His website can be found [here](https://dannycab.github.io/).
+Danny is an Associate Professor in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He holds the Lappan-Phillips Chair of Physics Education, co-directs the [Physics Education Research Lab](https://perl.natsci.msu.edu), and is the principal investigator of the [Learning Machines Lab](https://learningmachineslab.github.io). He earned his Bachelor's degree in physics from the [University of Texas at Austin](https://ph.utexas.edu), and his Master's and PhD in physics from the [Georgia Institute of Technology](https://physics.gatech.edu). Danny worked as a Science Teaching Postdoctoral Fellow at the [University of Colorado Boulder](https://www.colorado.edu/physics) before joining the faculty at Michigan State. His research focuses on computational education and the use of data science to address questions in STEM education. In his free time, he bikes, skateboards, and barbecues. His website can be found [here](https://dannycab.github.io/).
 
 #### Brian O'Shea
 {% include figure.html image="/assets/img/oshea-headshot.jpg" position="left" width="120px" %}
-Brian is a Professor in the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu).  He is also a member of the [National Superconducting Cyclotron Laboratory](https://nscl.msu.edu/) and the current Director of MSU's [Institute for Cyber-Enabled Research](https://icer.msu.edu/).  Prior to joining MSU, he received his PhD in physics from the [University of Illinois at Urbana-Champaign](https://physics.illinois.edu/) and was a postdoc at [Los Alamos National Laboratory](https://lanl.gov/) in the Theoretical Astrophysics Group and Applied Physics Division.  His research interests include galaxy formation, turbulence, plasma physics, and computational science education.  In his free time, he enjoys cooking, gardening, biking, and hiking.  His website can be found [here](https://web.pa.msu.edu/people/osheabr/).
+Brian is a Professor in the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu) and the [Department of Physics and Astronomy](https://pa.msu.edu).  He is also a member of the [National Superconducting Cyclotron Laboratory](https://nscl.msu.edu/) and the current Director of MSU's [Institute for Cyber-Enabled Research](https://icer.msu.edu/).  Prior to joining MSU, he received his PhD in physics from the [University of Illinois at Urbana-Champaign](https://physics.illinois.edu/) and was a postdoc at [Los Alamos National Laboratory](https://lanl.gov/) in the Theoretical Astrophysics Group and Applied Physics Division.  His research interests include galaxy formation, turbulence, plasma physics, and computational science education.  In his free time, he enjoys cooking, gardening, biking, and hiking.  His website can be found [here](https://web.pa.msu.edu/people/osheabr/).
 
 #### Devin Silvia
 {% include figure.html image="/assets/img/devin.jpg" position="left" width="120px" %}
@@ -24,6 +24,12 @@ This is Tom!
 
 #### Rachel Frisbie
 This is Rachel!
+
+### External Collaborators
+
+#### Tor Ole Odden
+{% include figure.html image="/assets/img/tor.jpg" position="left" width="120px" %}
+Tor is a postdoc at the [University of Oslo, Norway](https://www.uio.no/english/), where he studies how computation can be used to improve physics teaching and how machine learning methods can be applied to science education research. He holds a bachelor’s degree in physics from [St. Olaf College](https://wp.stolaf.edu/), a master’s in physics from the [University of Wisconsin-Madison](https://www.wisc.edu/), and a PhD in physics education also from the University of Wisconsin-Madison. In his spare time Tor is an active fiddle player, cross-country skier, wood-carver, and graphic novel enthusiast.
 
 ### Former group members
 
