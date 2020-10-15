@@ -23,6 +23,7 @@ Devin is the Director of Undergraduate Studies and a teaching specialist in the 
 This is Tom!
 
 #### Rachel Frisbie
+{% include figure.html image="/assets/img/pdp2020_headshot_frisbie.jpg" position="left" width="120px" %}
 Rachel is a postdoctoral researcher in the Computational Education Research Lab (CERL). She earned her PhD in 2020 in [Astronomy & Astrophysics](https://astro.natsci.msu.edu/) from [Michigan State University](https://msu.edu/) where she was an observational astronomer focusing on the properties of the hot, X-ray emitting gas in galaxies and galaxy clusters and how we can learn about their evolution from the gas. In CERL, she will focus on exploring student learning outcomes and attitudes in introductory computational science courses at MSU. Outside of work, Rachel enjoys powerlifting, running, playing oboe, and getting snuggles from her dog Freya.
 
 ### External Collaborators
