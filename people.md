@@ -3,7 +3,7 @@ layout: page
 title: The awesome folks in CERL
 ---
 ---
-### Faculty
+### Group Leaders
 
 #### Danny Caballero (he/him)
 {% include figure.html image="/assets/img/dc.jpeg" position="left" width="120px" %}
@@ -17,14 +17,18 @@ Brian is a Professor in the [Department of Computational Mathematics, Science an
 {% include figure.html image="/assets/img/devin.jpg" position="left" width="120px" %}
 Devin is the Director of Undergraduate Studies and a teaching specialist in the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He received his PhD in [Astrophysical and Planetary Sciences](https://www.colorado.edu/aps/) from the [University of Colorado](https://www.colorado.edu) where he worked as a computational astrophysicist running simulations aimed at understanding various facets of chemical evolution in the universe. He then worked as a National Science Foundation Astronomy and Astrophysics postdoctoral fellow at MSU before joining the ranks of the CMSE faculty in 2017. In addition to his computational astrophysics research, Devin is passionate about STEM education and creating more equitable and inclusive STEM classrooms. When he's not working, he enjoys brewing beer, roasting coffee, and running all over the greater Lansing area.
 
-### Postdoctoral Research Associates
+### Group Members
 
 #### Tom Finzell
 Tom is an astrophysicist that has moved into Physics Education Research (PER), and more recently, Computational Education Research (CER). His PER work focuses primarily on developing methods and tools to help physics instructors incorporate computation into their classrooms in a way that is equitable and inclusive. Tom enjoys working on these problems with both instructors and students, using educational research tools to both modernize physics curricula and working to bring down historical and structural barriers that stand in the way of success for disenfranchised groups. His Ph.D. work focused on modeling multi-wavelength observations of gamma-ray-emitting Classical Novae, with a specific focus on the V1324 Sco. Tom used radio observations to probe the extensive properties of nova ejecta, optical data as a diagnostic of the plasma, and gamma-ray data to constrain the dynamics of the event.
 
 #### Rachel Frisbie (she/her)
 {% include figure.html image="/assets/img/pdp2020_headshot_frisbie.jpg" position="left" width="120px" %}
-Rachel is a postdoctoral researcher in the Computational Education Research Lab (CERL). She earned her PhD in 2020 in [Astronomy & Astrophysics](https://astro.natsci.msu.edu/) from [Michigan State University](https://msu.edu/) where she was an observational astronomer focusing on the properties of the hot, X-ray emitting gas in galaxies and galaxy clusters and how we can learn about their evolution from the gas. In CERL, she will focus on exploring student learning outcomes and attitudes in introductory computational science courses at MSU. Outside of work, Rachel enjoys powerlifting, running, playing oboe, and getting snuggles from her dog Freya.
+Rachel is a postdoctoral researcher in the Computational Education Research Lab (CERL) and will be starting as an assistant professor in the Fall of 2021. She earned her PhD in 2020 in [Astronomy & Astrophysics](https://astro.natsci.msu.edu/) from [Michigan State University](https://msu.edu/) where she was an observational astronomer focusing on the properties of the hot, X-ray emitting gas in galaxies and galaxy clusters and how we can learn about their evolution from the gas. In CERL, she will focus on exploring student learning outcomes and attitudes in introductory computational science courses at MSU. Outside of work, Rachel enjoys powerlifting, running, playing oboe, and getting snuggles from her dog Freya.
+
+#### Paul Hamerski (he/him)
+{% include figure.html image="/assets/img/hamerski_pic.jpg" position="left" width="120px" %}
+Paul will be an assistant professor in CMSE starting in Fall 2021. He is currently finishing up his PhD in the Physics Education Research Lab at MSU, working with Paul Irving and Daryl McPadden. He is interested broadly in how computation can be used as a tool for learning science at the high school and undergraduate levels. His research involves applying qualitative case study to students’ perspectives on the challenges that computational tools bring to the physics classroom. He earned his bachelor's degree in physics and math from Carnegie Mellon University. In his free time, he likes to play board games, drink beer, and go camping.
 
 ### External Collaborators
 
