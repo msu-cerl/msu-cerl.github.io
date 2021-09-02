@@ -28,7 +28,7 @@ Rachel is a postdoctoral researcher in the Computational Education Research Lab 
 
 #### Paul Hamerski (he/him)
 {% include figure.html image="/assets/img/hamerski_pic.jpg" position="left" width="120px" %}
-Paul will be an assistant professor in CMSE starting in Fall 2021. He is currently finishing up his PhD in the Physics Education Research Lab at MSU, working with Paul Irving and Daryl McPadden. He is interested broadly in how computation can be used as a tool for learning science at the high school and undergraduate levels. His research involves applying qualitative case study to students’ perspectives on the challenges that computational tools bring to the physics classroom. He earned his bachelor's degree in physics and math from Carnegie Mellon University. In his free time, he likes to play board games, drink beer, and go camping.
+Paul is a fixed-term assistant professor in CMSE. His research is based out of CERL and he is teaching CMSE 201 in Fall 2021 and CMSE/STT 180 in Spring 2022. He recently finished his PhD doing physics education research at MSU, working with Paul Irving and Daryl McPadden. He is interested broadly in how computation can be used as a tool for learning science at the high school and undergraduate levels. His research involves applying qualitative case study to students' perspectives on the challenges that computational tools bring to science classrooms. He earned his bachelor's degree in physics and math from Carnegie Mellon University. In his free time, he likes to play board games, go camping, and enjoy Michigan's parks and breweries.
 
 ### External Collaborators
 
