@@ -20,6 +20,7 @@ Devin is the Director of Undergraduate Studies and a teaching specialist in the 
 ### Group Members
 
 #### Tom Finzell
+{% include figure.html image="/assets/img/Finzell_Headshot.png" position="left" width="120px" %}
 Tom is a Fixed-Term Assistant Professor in CMSE working in CERL. His research focuses on how students learn the computational data manipulation tools ubiquitous across all STEM disciplines, emphasizing equitably and inclusively. Tom has also worked on integrating computation into the core curriculum of physics, and more broadly, in STEM and beyond. He believes that a lack of preparation in computation can propagate historical and structural barriers that stand in the way of success for disenfranchised groups. Tom's Ph.D. work was in astronomy, focused on modeling multi-wavelength observations of gamma-ray-emitting Classical Novae, specifically focusing on the V1324 Sco. Tom used radio observations to probe the extensive properties of nova ejecta, optical data as a diagnostic of the plasma, and gamma-ray data to constrain the dynamics of the event.
 
 #### Rachel Frisbie (she/her)
