@@ -31,6 +31,9 @@ Rachel is a postdoctoral researcher in the Computational Education Research Lab 
 {% include figure.html image="/assets/img/hamerski_pic.jpg" position="left" width="120px" %}
 Paul is a fixed-term assistant professor in CMSE. His research is based out of CERL and he is teaching CMSE 201 in Fall 2021 and CMSE/STT 180 in Spring 2022. He recently finished his PhD doing physics education research at MSU, working with Paul Irving and Daryl McPadden. He is interested broadly in how computation can be used as a tool for learning science at the high school and undergraduate levels. His research involves applying qualitative case study to students' perspectives on the challenges that computational tools bring to science classrooms. He earned his bachelor's degree in physics and math from Carnegie Mellon University. In his free time, he likes to play board games, go camping, and enjoy Michigan's parks and breweries.
 
+#### Emily Bolger (she/her)
+Emily is a PhD student in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor’s degree in Mathematics from Moravian College. Previously, she has participated in research projects at the intersection of Data Science, Statistics, and Computation. Currently, she is most interested in using computational tools to analyze educational data, specifically understanding the ways in which a student’s connections and other criteria can impact their success. Her most recent project involves analyzing social networks constructed from Slack messages of Physics instructors who are looking to better integrate computation in their classrooms. In her free time, she enjoys reading, crocheting, and dancing. 
+
 ### External Collaborators
 
 #### Tor Ole Odden
