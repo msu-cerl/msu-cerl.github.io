@@ -45,6 +45,8 @@ navigation_header:
   url: /people/
 - title: Projects
   url: /projects/
+- title: Curriculum Development
+  url: /curriculumdev/
 
 # Footer nav
 navigation_footer:
