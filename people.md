@@ -49,4 +49,4 @@ Tor is a postdoc at the [University of Oslo, Norway](https://www.uio.no/english/
 
 #### Nat Hawkins
 {% include figure.html image="/assets/img/headshot_reduced.jpg" position="left" width="120px" %}
-Nat is a former post-bac researcher with CERL. He is currently a PhD student in CMSE working with Dr. Arjun Krishnan. Check him out [here](https://www.nathawkins.info).
+Nat is a former post-bac researcher with CERL. He completed a Masters in CMSE and is now working as a Business Intelligence Analyst for the Kellogg Company.
