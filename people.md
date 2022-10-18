@@ -33,7 +33,7 @@ Paul is a fixed-term assistant professor in CMSE. His research is based out of C
 
 #### Emily Bolger (she/her)
 {% include figure.html image="/assets/img/EmilyBolger_Headshot2.jpg" position="left" width="120px" %}
-Emily is a PhD student in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor’s degree in Mathematics from Moravian College. Previously, she has participated in research projects at the intersection of Data Science, Statistics, and Computation. Currently, she is most interested in using computational tools to analyze educational data, specifically understanding the ways in which a student’s connections and other criteria can impact their success. Her most recent project involves analyzing social networks constructed from Slack messages of Physics instructors who are looking to better integrate computation in their classrooms. In her free time, she enjoys reading, crocheting, and dancing.
+Emily is a PhD student in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor’s degree in Mathematics from Moravian College. Her current research uses computational tools, specifically Social Network Analysis and Natural Language Processing, to analyze education-related data. Her most recent project involves analyzing social networks constructed from Slack messages of Physics instructors who are looking to better integrate computation in their classrooms. In addition to research, she has been a Teaching Assistant for CMSE 201 and CMSE 381. In her free time, she enjoys reading, crocheting, and dancing.
 
 #### Sarah Castle (she/her)
 {% include figure.html image="/assets/img/SarahCastle_headshot.jpeg" position="left" width="120px" %}
