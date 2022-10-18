@@ -19,7 +19,7 @@ Devin is the Director of Undergraduate Studies and a teaching specialist in the 
 
 ### Group Members
 
-#### Tom Finzell
+#### Tom Finzell (he/him)
 {% include figure.html image="/assets/img/TomFinzell_headshot.jpg" position="left" width="120px" %}
 Tom is a Fixed-Term Assistant Professor in CMSE working in CERL. His research focuses on how students learn the computational data manipulation tools ubiquitous across all STEM disciplines, emphasizing equitably and inclusively. Tom has also worked on integrating computation into the core curriculum of physics, and more broadly, in STEM and beyond. He believes that a lack of preparation in computation can propagate historical and structural barriers that stand in the way of success for disenfranchised groups. Tom's Ph.D. work was in astronomy, focused on modeling multi-wavelength observations of gamma-ray-emitting Classical Novae, specifically focusing on the V1324 Sco. Tom used radio observations to probe the extensive properties of nova ejecta, optical data as a diagnostic of the plasma, and gamma-ray data to constrain the dynamics of the event.
 
@@ -45,12 +45,12 @@ Rachel is a PhD student in CMSE. She earned her bachelor’s degree in mathemati
 
 ### External Collaborators
 
-#### Tor Ole Odden
+#### Tor Ole Odden (he/him)
 {% include figure.html image="/assets/img/tor.jpg" position="left" width="120px" %}
 Tor is a postdoc at the [University of Oslo, Norway](https://www.uio.no/english/), where he studies how computation can be used to improve physics teaching and how machine learning methods can be applied to science education research. He holds a bachelor’s degree in physics from [St. Olaf College](https://wp.stolaf.edu/), a master’s in physics from the [University of Wisconsin-Madison](https://www.wisc.edu/), and a PhD in physics education also from the University of Wisconsin-Madison. In his spare time Tor is an active fiddle player, cross-country skier, wood-carver, and graphic novel enthusiast.
 
 ### Former group members
 
-#### Nat Hawkins
+#### Nat Hawkins (he/him)
 {% include figure.html image="/assets/img/headshot_reduced.jpg" position="left" width="120px" %}
 Nat is a former post-bac researcher with CERL. He completed a Masters in CMSE and is now working as a Business Intelligence Analyst for the Kellogg Company.
