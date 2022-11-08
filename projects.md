@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What are we up to?
+title: Past and Present Research Efforts
 ---
 ---
 ### Current Projects
