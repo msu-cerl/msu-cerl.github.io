@@ -28,6 +28,7 @@ Tom is a assistant professor in CMSE working in CERL. His research focuses on ho
 Rachel is an assistant professor in the Computational Education Research Lab (CERL). She earned her Bachelor’s degree in Physics from The University of Scranton, and she earned her PhD in Astrophysics from Michigan State University in 2020. Since 2020, she has been teaching courses in CMSE and engaging in computational science education research with the Computational Education Research Lab (CERL) at MSU. Her current research interests include qualitative approaches to exploring how students problem solve using computational concepts as they progress through their education as well as how those findings can be applied to courses like the ones we teach in CMSE to improve student outcomes. She also is interested in investigating the impact of weekly group and individual feedback on students’ experiences in class. Elsewhere on campus, Rachel is a [STEM Teaching and Learning Fellow](https://3dl4us.org/) and helps run [Astronomy on Tap - Lansing](https://www.facebook.com/AoTLansing). Outside of work, Rachel enjoys exploring with her spouse, toddler, and dog, playing oboe and ukulele, powerlifting, and tin smithing.
 
 #### Patti Hamerski (she/her)
+{% include figure.html image="/assets/img/PattiHamerski_headshot.jpg" position="left" width="120px" %}
 Patti is an assistant professor in CMSE. Her research is based out of CERL and she teaches CMSE 201 and STT 180. She finished her PhD in 2021 doing physics education research at MSU, studying how high school students perceive and deal with affect-based challenges when learning physics through computation. She is interested broadly in the intersection of computing, disciplinary learning, and affect. Her current research focuses on CMSE 201 (an introductory interdisciplinary computing course), and involves students’ perspectives on self-efficacy for interdisciplinary computing, the impact of personalized written feedback on students, and curriculum design for three-dimensional learning and sustainability. Outside of work, Patti loves to play with her German shorthaired pointer, explore Michigan’s parks and breweries, and make linocuts.
 
 #### Emily Bolger (she/her)
@@ -45,6 +46,9 @@ Rachel is a PhD student in CMSE. She earned her bachelor’s degree in mathemati
 #### Krithi Sachithanand (she/her)
 {% include figure.html image="/assets/img/KrithiSachithanand_headshot.jpg" position="left" width="120px" %}
 Krithi is an undergraduate student studying Computational Data Science at Michigan State University. Her research interests include studying user experience through classroom application. Outside of work, she likes trying different flavors of ice-cream, karaoke and crafting.
+
+#### Paige Tourangeau (she/her)
+Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV. 
 
 ### External Collaborators
 
