@@ -54,7 +54,7 @@ Krithi is an undergraduate student studying Computational Data Science at Michig
 #### Paige Tourangeau (she/her)
 Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV. 
 
-#### Jacob Underwood
+#### Jacob Underwood (he/him)
 {% include figure.html image="/assets/img/Jacob_headshot.jpg" position="left" width="120px" %}
 Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. Jacob is joining CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
 
