@@ -43,12 +43,20 @@ Sarah is a current PhD candidate in PRIME (Program for Mathematics Education) at
 {% include figure.html image="/assets/img/RachelRoca_headshot.jpg" position="left" width="120px" %}
 Rachel is a PhD student in CMSE. She earned her bachelor’s degree in mathematics from Manhattan College in 2021, where she also minored in computer science and Spanish. Her research interests are interdisciplinary and span three areas: topological data analysis (the study of the shape of data), computational education, and humanistic mathematics for social good. Currently, she is exploring various research paths that combine these larger areas in unique ways. Rachel has TAed for CMSE 201 and assisted in designing assignments. Outside of research, Rachel is the chair of the CMSE department’s graduate student diversity, equity, and inclusion committee and the treasurer of the MSU swing dance society. In her free time, Rachel loves to read, go to the beach, travel, and have good food and drink with good people.
 
+#### Amanda Bowerman (she/her)
+{% include figure.html image="/assets/img/Amanda_headshot.jpg" position="left" width="120px" %}
+Amanda is currently a master's student in CMSE. She earned her bachelor's degree in Data Science with a minor in Cognitive Sciences in 2022. Throughout her time at MSU, Amanda has worked as an undergraduate learning assistant and a teaching assistant for many of our CMSE courses. Currently, she is involved in curriculum development efforts for our introductory courses. 
+
 #### Krithi Sachithanand (she/her)
 {% include figure.html image="/assets/img/KrithiSachithanand_headshot.jpg" position="left" width="120px" %}
 Krithi is an undergraduate student studying Computational Data Science at Michigan State University. Her research interests include studying user experience through classroom application. Outside of work, she likes trying different flavors of ice-cream, karaoke and crafting.
 
 #### Paige Tourangeau (she/her)
 Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV. 
+
+#### Jacob Underwood
+{% include figure.html image="/assets/img/Jacob_headshot.jpg" position="left" width="120px" %}
+Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. He is joining CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
 
 ### External Collaborators
 
