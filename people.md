@@ -45,7 +45,7 @@ Rachel is a PhD student in CMSE. She earned her bachelor’s degree in mathemati
 
 #### Amanda Bowerman (she/her)
 {% include figure.html image="/assets/img/Amanda_headshot.jpg" position="left" width="120px" %}
-Amanda is currently a master's student in CMSE. She earned her bachelor's degree in Data Science with a minor in Cognitive Sciences in 2022. Throughout her time at MSU, Amanda has worked as an undergraduate learning assistant and a teaching assistant for many of our CMSE courses. Currently, she is involved in curriculum development efforts for our introductory courses. 
+Amanda is currently a master's student in CMSE. She earned her bachelor's degree in Data Science with a minor in Cognitive Sciences in 2022. Throughout her time at MSU, Amanda has worked as an undergraduate learning assistant and a teaching assistant for many of our CMSE courses. Currently, she is involved in curriculum development efforts for our introductory courses. Outside of work, Amanda likes to play guitar, read, play with her cats, and spend time with friends.
 
 #### Krithi Sachithanand (she/her)
 {% include figure.html image="/assets/img/KrithiSachithanand_headshot.jpg" position="left" width="120px" %}
@@ -56,7 +56,7 @@ Paige is an undergraduate student studying statistics at Michigan State Universi
 
 #### Jacob Underwood
 {% include figure.html image="/assets/img/Jacob_headshot.jpg" position="left" width="120px" %}
-Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. He is joining CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
+Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. Jacob is joining CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
 
 ### External Collaborators
 
