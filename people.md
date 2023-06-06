@@ -47,6 +47,10 @@ Rachel is a PhD student in CMSE. She earned her bachelor’s degree in mathemati
 {% include figure.html image="/assets/img/Amanda_headshot.jpg" position="left" width="120px" %}
 Amanda is currently a master's student in CMSE. She earned her bachelor's degree in Data Science with a minor in Cognitive Sciences in 2022. Throughout her time at MSU, Amanda has worked as an undergraduate learning assistant and a teaching assistant for many of our CMSE courses. Currently, she is involved in curriculum development efforts for our introductory courses. Outside of work, Amanda likes to play guitar, read, play with her cats, and spend time with friends.
 
+#### Cassie Lem (she/her)
+{% include figure.html image="/assets/img/cassie_lem_headshot.jpg" position="left" width="120px" %}
+Cassie is a PhD student in CMSE. She earned her bachelor’s degree in applied mathematics from UC Santa Barbara in 2021. Cassie is currently exploring the use of different quantitative and qualitative tools in education research, and has a broad array of possible research interests, from machine learning to ethics in STEM education. Cassie is also working with a team to develop STEMEd+ Commons, which will serve as an online platform for collaboration between STEM education researchers. Additionally, she has been a TA for CMSE 201 and CMSE 382. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
+
 #### Krithi Sachithanand (she/her)
 {% include figure.html image="/assets/img/KrithiSachithanand_headshot.jpg" position="left" width="120px" %}
 Krithi is an undergraduate student studying Computational Data Science at Michigan State University. Her research interests include studying user experience through classroom application. Outside of work, she likes trying different flavors of ice-cream, karaoke and crafting.
