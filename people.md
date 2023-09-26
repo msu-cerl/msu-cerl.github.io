@@ -48,7 +48,7 @@ Rachel is a PhD student in CMSE. She earned her bachelor’s degree in mathemati
 Amanda is currently a master's student in CMSE. She earned her bachelor's degree in Data Science with a minor in Cognitive Sciences in 2022. Throughout her time at MSU, Amanda has worked as an undergraduate learning assistant and a teaching assistant for many of our CMSE courses. Currently, she is involved in curriculum development efforts for our introductory courses. Outside of work, Amanda likes to play guitar, read, play with her cats, and spend time with friends.
 
 #### Cassie Lem (she/her)
-{% include figure.html image="/assets/img/cassie_lem_headshot.JPG" position="left" width="120px" %}
+{% include figure.html image="/assets/img/Cassie-headshot.jpg" position="left" width="120px" %}
 Cassie is a PhD student in CMSE. She earned her bachelor’s degree in applied mathematics from UC Santa Barbara in 2021. Cassie is currently interested in studying how different group work dynamics in CMSE 201 affect student self-efficacy. Cassie is also a graduate assistant on the technical team of [Humanities Commons](https://hcommons.org/). Additionally, she has been a TA for CMSE 201 and CMSE 382. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
 
 #### Krithi Sachithanand (she/her)
