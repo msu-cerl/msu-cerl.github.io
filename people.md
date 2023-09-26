@@ -62,6 +62,10 @@ Paige is an undergraduate student studying statistics at Michigan State Universi
 {% include figure.html image="/assets/img/Jacob_headshot.jpg" position="left" width="120px" %}
 Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. Jacob is joining CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
 
+
+#### Sona Chitchyan (she/they)
+Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. In their free time they enjoy playing racquetball and watching TV shows. Sona is also interested in contributing to open source codes in astrophysics.  
+
 ### External Collaborators
 
 #### Tor Ole Odden (he/him)
