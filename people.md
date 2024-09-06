@@ -64,7 +64,8 @@ Jacob is an undergraduate student studying computer science from Arizona State U
 
 
 #### Sona Chitchyan (she/they)
-Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. In their free time they enjoy playing racquetball and watching TV shows. Sona is also interested in contributing to open source codes in astrophysics.  
+{% include figure.html image="/assets/img/Sona_headshot.JPG" position="left" width="120px" %}
+Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. Currently they are an MSU FAST fellow, working on designing an assignment for CMSE202. In their free time they enjoy playing racquetball and watching TV shows. Sona is also interested in contributing to open source codes in astrophysics.  
 
 ### External Collaborators
 
