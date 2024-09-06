@@ -28,8 +28,7 @@ Aman Yadav is the Lappan-Phillips Professor of Computing Education in the Colleg
 ### Group Members
 
 #### Emily Bolger (she/her)
-{% include figure.html image="/assets/img/EmilyBolger_headshot3.jpg" position="left" width="120px" %}
-Emily is a PhD student in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor’s degree in Mathematics from Moravian College. Her current research uses computational tools, specifically Social Network Analysis and Natural Language Processing, to analyze education-related data. Her most recent project involves analyzing social networks constructed from Slack messages of Physics instructors who are looking to better integrate computation in their classrooms. In addition to research, she has been a Teaching Assistant for CMSE 201 and CMSE 381. In her free time, she enjoys reading, crocheting, and dancing.
+{% include figure.html image="/assets/img/EmilyBolger_headshot3.jpg" position="left" width="120px" %} Emily is a PhD student in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor's degree in Mathematics from Moravian College. Her current research uses computational tools, specifically Social Network Analysis and Natural Language Processing, to analyze education-related data. Her most recent project involves using Natural Language Processing to analyze literature published on change strategies for improving undergraduate STEM instruction. The project  is multi-method synthesis in collaboration with four other research institutions. In addition to research, she has been a Teaching Assistant for CMSE 201 and CMSE 381. In her free time, she enjoys reading, crocheting, and dancing. Her website can be found [here](https://egbolger.github.io/). 
 
 #### Rachel Roca (she/they)
 {% include figure.html image="/assets/img/RachelRoca_headshot.jpg" position="left" width="120px" %}
@@ -37,7 +36,7 @@ Emily is a PhD student in the Computational Mathematics, Science and Engineering
 
 #### Cassie Lem (she/her)
 {% include figure.html image="/assets/img/Cassie-headshot.jpg" position="left" width="120px" %}
-Cassie is a PhD student in CMSE. She earned her bachelor’s degree in applied mathematics from UC Santa Barbara in 2021. Cassie is currently interested in studying how different group work dynamics in CMSE 201 affect student self-efficacy. Cassie is also a graduate assistant on the technical team of [Humanities Commons](https://hcommons.org/). Additionally, she has been a TA for CMSE 201 and CMSE 382. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
+Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa Barbara in 2021. Cassie is currently exploring different methods of working with education data. In particular, she has been working on analyzing STEM education literature using Natural Language Processing techniques. She is also a graduate assistant with [Knowledge Commons](https://hcommons.org/) at MSU, and helps to support their open scholarship platform in this role. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
 
 #### Paige Tourangeau (she/her)
 Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV. 
