@@ -65,17 +65,21 @@ Sarah earned her masters in Mathematics and PhD in Mathematics Education from Mi
 {% include figure.html image="/assets/img/TomFinzell_headshot.jpg" position="left" width="120px" %}
 Tom is a assistant professor in CMSE working in CERL. His research focuses on how students learn the computational data manipulation tools ubiquitous across all STEM disciplines, emphasizing equitably and inclusively. Tom has also worked on integrating computation into the core curriculum of physics, and more broadly, in STEM and beyond. He believes that a lack of preparation in computation can propagate historical and structural barriers that stand in the way of success for disenfranchised groups. Tom's Ph.D. work was in astronomy, focused on modeling multi-wavelength observations of gamma-ray-emitting Classical Novae, specifically focusing on the V1324 Sco. Tom used radio observations to probe the extensive properties of nova ejecta, optical data as a diagnostic of the plasma, and gamma-ray data to constrain the dynamics of the event.
 
+
 #### Patti Hamerski (she/her)
 {% include figure.html image="/assets/img/PattiHamerski_headshot.jpg" position="left" width="120px" %}
 Patti is an assistant professor in CMSE. Her research is based out of CERL and she teaches CMSE 201 and STT 180. She finished her PhD in 2021 doing physics education research at MSU, studying how high school students perceive and deal with affect-based challenges when learning physics through computation. She is interested broadly in the intersection of computing, disciplinary learning, and affect. Her current research focuses on CMSE 201 (an introductory interdisciplinary computing course), and involves students’ perspectives on self-efficacy for interdisciplinary computing, the impact of personalized written feedback on students, and curriculum design for three-dimensional learning and sustainability. Outside of work, Patti loves to play with her German shorthaired pointer, explore Michigan’s parks and breweries, and make linocuts.
+
 
 #### Nat Hawkins (he/him)
 {% include figure.html image="/assets/img/headshot_reduced.jpg" position="left" width="120px" %}
 Nat is a former post-bac researcher with CERL. He completed a Masters in CMSE and is now working as a Business Intelligence Analyst for the Kellogg Company.
 
+
 #### Jacob Underwood (he/him)
 {% include figure.html image="/assets/img/Jacob_headshot.jpg" position="left" width="120px" %}
 Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. Jacob is joining CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
+
 
 #### Krithi Sachithanand (she/her)
 {% include figure.html image="/assets/img/KrithiSachithanand_headshot.jpg" position="left" width="120px" %}
