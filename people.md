@@ -38,6 +38,9 @@ Aman Yadav is the Lappan-Phillips Professor of Computing Education in the Colleg
 {% include figure.html image="/assets/img/Cassie-headshot.jpg" position="left" width="120px" %}
 Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa Barbara in 2021. Cassie is currently exploring different methods of working with education data. In particular, she has been working on analyzing STEM education literature using Natural Language Processing techniques. She is also a graduate assistant with [Knowledge Commons](https://hcommons.org/) at MSU, and helps to support their open scholarship platform in this role. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
 
+#### Maddy Nomer (she/her)
+Maddy is currently a masters student in the MSDS program. She earned her bachelor's degree in Psychology with a minor in Social Science Quantitative Data Analysis. Throughout her time at MSU, Maddy has worked as an undergraduate learning assistant and a teaching assistant for CMSE 201. Prior to joining CERL, Maddy’s research focused on sleep, specifically how melatonin impacted sleep and cognition in healthy young adults. In her free time, Maddy enjoys playing with her cat and reading.
+
 #### Paige Tourangeau (she/her)
 Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV. 
 
