@@ -74,16 +74,15 @@ Tom is a assistant professor in CMSE working in CERL. His research focuses on ho
 Patti is an assistant professor in CMSE. Her research is based out of CERL and she teaches CMSE 201 and STT 180. She finished her PhD in 2021 doing physics education research at MSU, studying how high school students perceive and deal with affect-based challenges when learning physics through computation. She is interested broadly in the intersection of computing, disciplinary learning, and affect. Her current research focuses on CMSE 201 (an introductory interdisciplinary computing course), and involves students’ perspectives on self-efficacy for interdisciplinary computing, the impact of personalized written feedback on students, and curriculum design for three-dimensional learning and sustainability. Outside of work, Patti loves to play with her German shorthaired pointer, explore Michigan’s parks and breweries, and make linocuts.
 
 
-#### Nat Hawkins (he/him)
-{% include figure.html image="/assets/img/headshot_reduced.jpg" position="left" width="120px" %}
-Nat is a former post-bac researcher with CERL. He completed a Masters in CMSE and is now working as a Business Intelligence Analyst for the Kellogg Company.
-
-
 #### Jacob Underwood (he/him)
 {% include figure.html image="/assets/img/Jacob_headshot.jpg" position="left" width="120px" %}
-Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. Jacob is joining CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
+Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. Jacob joined CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
 
 
 #### Krithi Sachithanand (she/her)
 {% include figure.html image="/assets/img/KrithiSachithanand_headshot.jpg" position="left" width="120px" %}
 Krithi is an undergraduate student studying Computational Data Science at Michigan State University. Her research interests include studying user experience through classroom application. Outside of work, she likes trying different flavors of ice-cream, karaoke and crafting.
+
+#### Nat Hawkins (he/him)
+{% include figure.html image="/assets/img/headshot_reduced.jpg" position="left" width="120px" %}
+Nat is a former post-bac researcher with CERL. He completed a Masters in CMSE and is now working as a Business Intelligence Analyst for the Kellogg Company.
