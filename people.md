@@ -27,12 +27,15 @@ Aman Yadav is the Lappan-Phillips Professor of Computing Education in the Colleg
 
 ### Group Members
 
+#### Justin Gambrell (he/him)
+Justin is a fixed-term assistant professor in CMSE and is a member of CERL. Justin earned his Bachelor’s degree in Physics from Michigan State University along with a minor in Mathematics in 2018. In 2024 he earned his PhD in Physics from Drexel University specializing in Physics Education Research. Justin is currently teaching CMSE 201 and 202. His research has focused on assessment development of computational thinking in introductory physics. Justin’s current research interests are in expanding assessment development in terms of exploring student affect, and examining differences in computational thinking based on the computational environment used. In his free time he enjoys playing video games, catching up on a massive watch list, and propagating house plants.
+
 #### Emily Bolger (she/her)
 {% include figure.html image="/assets/img/EmilyBolger_headshot3.jpg" position="left" width="120px" %} Emily is a PhD student in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor's degree in Mathematics from Moravian College. Her current research uses computational tools, specifically Social Network Analysis and Natural Language Processing, to analyze education-related data. Her most recent project involves using Natural Language Processing to analyze literature published on change strategies for improving undergraduate STEM instruction. The project  is multi-method synthesis in collaboration with four other research institutions. In addition to research, she has been a Teaching Assistant for CMSE 201 and CMSE 381. In her free time, she enjoys reading, crocheting, and dancing. Her website can be found [here](https://egbolger.github.io/). 
 
-#### Rachel Roca (she/they)
-{% include figure.html image="/assets/img/RachelRoca_headshot.jpg" position="left" width="120px" %}
-[Rachel](https://sites.google.com/msu.edu/rachel-e-roca/home) is a PhD student in CMSE. She earned her bachelor's degree in mathematics from Manhattan College in 2021, where she also minored in computer science and Spanish. Their research interests are interdisciplinary and span three areas: topological data analysis (the study of the shape of data), computational education, and humanistic mathematics for social good. Currently, their interests focus on studying identity and ethics in undergraduate courses. Rachel has TAed and developed assignments for CMSE 201, CMSE 381, and CMSE 402, and this past summer, she was an instructor of record for CMSE 201. Outside of research, Rachel is involved in various DEI and outreach programs and is the president of the MSU State Swing Society. In her free time, Rachel loves to read, go to the beach, travel, and have good food and drink with good people.
+#### Sona Chitchyan (she/they)
+{% include figure.html image="/assets/img/Sona_headshot.JPG" position="left" width="120px" %}
+Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. Currently they are an MSU FAST fellow, working on designing an assignment for CMSE202. In their free time they enjoy playing racquetball and watching TV shows. Sona is also interested in contributing to open source codes in astrophysics.  
 
 #### Cassie Lem (she/her)
 {% include figure.html image="/assets/img/CassieHeadshotCats.jpeg" position="left" width="120px" %}
@@ -41,12 +44,12 @@ Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa
 #### Maddy Nomer (she/her)
 Maddy is currently a masters student in the MSDS program. She earned her bachelor's degree in Psychology with a minor in Social Science Quantitative Data Analysis. Throughout her time at MSU, Maddy has worked as an undergraduate learning assistant and a teaching assistant for CMSE 201. Prior to joining CERL, Maddy’s research focused on sleep, specifically how melatonin impacted sleep and cognition in healthy young adults. In her free time, Maddy enjoys playing with her cat and reading.
 
+#### Rachel Roca (she/they)
+{% include figure.html image="/assets/img/RachelRoca_headshot.jpg" position="left" width="120px" %}
+[Rachel](https://sites.google.com/msu.edu/rachel-e-roca/home) is a PhD student in CMSE. She earned her bachelor's degree in mathematics from Manhattan College in 2021, where she also minored in computer science and Spanish. Their research interests are interdisciplinary and span three areas: topological data analysis (the study of the shape of data), computational education, and humanistic mathematics for social good. Currently, their interests focus on studying identity and ethics in undergraduate courses. Rachel has TAed and developed assignments for CMSE 201, CMSE 381, and CMSE 402, and this past summer, she was an instructor of record for CMSE 201. Outside of research, Rachel is involved in various DEI and outreach programs and is the president of the MSU State Swing Society. In her free time, Rachel loves to read, go to the beach, travel, and have good food and drink with good people.
+
 #### Paige Tourangeau (she/her)
 Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV. 
-
-#### Sona Chitchyan (she/they)
-{% include figure.html image="/assets/img/Sona_headshot.JPG" position="left" width="120px" %}
-Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. Currently they are an MSU FAST fellow, working on designing an assignment for CMSE202. In their free time they enjoy playing racquetball and watching TV shows. Sona is also interested in contributing to open source codes in astrophysics.  
 
 ### External Collaborators
 
