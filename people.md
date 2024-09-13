@@ -37,6 +37,10 @@ Justin is a fixed-term assistant professor in CMSE and is a member of CERL. Just
 {% include figure.html image="/assets/img/Sona_headshot.JPG" position="left" width="120px" %}
 Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. Currently they are an MSU FAST fellow, working on designing an assignment for CMSE202. In their free time they enjoy playing racquetball and watching TV shows. Sona is also interested in contributing to open source codes in astrophysics.  
 
+#### [Dawson Kinsman](https://dawson-kinsman.netlify.app) (she/her)
+
+Dawson is a PhD student in CMSE. She received her undergraduate degree in Mathematics and Applied Statistics from the University of Michigan-Dearborn, where she also received master's degree in Applied and Computational Mathematics. Her research interests include applied statistical and machine learning methods, especially with social science and education data. Prior to joining MSU, Dawson's projects focused on applying statistical and topological data analysis methods to Shotspotter and police shooting data from Detroit, Michigan. Outside of research, Dawson enjoys rock climbing, hiking, discovering new music, and hanging out with friends and family.
+
 #### Cassie Lem (she/her)
 {% include figure.html image="/assets/img/CassieHeadshotCats.jpeg" position="left" width="120px" %}
 Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa Barbara in 2021. Cassie is currently exploring different methods of working with education data. In particular, she has been working on analyzing STEM education literature using Natural Language Processing techniques. She is also a graduate assistant with [Knowledge Commons](https://hcommons.org/) at MSU, and helps to support their open scholarship platform in this role. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
