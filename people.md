@@ -28,6 +28,7 @@ Aman Yadav is the Lappan-Phillips Professor of Computing Education in the Colleg
 ### Group Members
 
 #### Justin Gambrell (he/him)
+{% include figure.html image="/assets/img/justin_gambrell_headshot.jpg" position="left" width="120px" %}
 Justin is a fixed-term assistant professor in CMSE and is a member of CERL. Justin earned his Bachelor’s degree in Physics from Michigan State University along with a minor in Mathematics in 2018. In 2024 he earned his PhD in Physics from Drexel University specializing in Physics Education Research. Justin is currently teaching CMSE 201 and 202. His research has focused on assessment development of computational thinking in introductory physics. Justin’s current research interests are in expanding assessment development in terms of exploring student affect, and examining differences in computational thinking based on the computational environment used. In his free time he enjoys playing video games, catching up on a massive watch list, and propagating house plants.
 
 #### Emily Bolger (she/her)
