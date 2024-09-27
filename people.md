@@ -65,7 +65,7 @@ Tor is a postdoc at the [University of Oslo, Norway](https://www.uio.no/english/
 
 #### Amanda Bowerman (she/her)
 {% include figure.html image="/assets/img/Amanda_headshot.jpg" position="left" width="120px" %}
-Amanda is currently a master's student in CMSE. She earned her bachelor's degree in Data Science with a minor in Cognitive Sciences in 2022. Throughout her time at MSU, Amanda has worked as an undergraduate learning assistant and a teaching assistant for many of our CMSE courses. Currently, she is involved in curriculum development efforts for our introductory courses. Outside of work, Amanda likes to play guitar, read, play with her cats, and spend time with friends.
+Amanda is currently working on a PhD at the University of Oslo in the Mathematics and Natural Sciences Department. She earned her bachelor’s degree in Data Science with a minor in Cognitive Sciences in 2022 from MSU. She also completed her master’s degree in Computational Mathematics Science and Engineering in 2024. Her current research explores the methodology behind utilizing Natural Language Processing to aid in doing deductive coding of qualitative data. Amanda did curriculum development for CMSE 201 and CMSE 202, as well as having taught a number of entry level data science courses during her time at MSU. Outside of her research, she enjoys spending her time with her cat, playing guitar, learning Norwegian, and exploring Oslo!
 
 #### Sarah Castle (she/her)
 {% include figure.html image="/assets/img/SarahCastle_headshot.jpg" position="left" width="120px" %}
