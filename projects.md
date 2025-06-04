@@ -5,6 +5,10 @@ title: Past and Present Research Efforts
 ---
 ### Current Projects
 
+#### Exploring the Impact of Unsupervised Clustering Methods in Systematic Literature Reviews 
+##### Folks Involved: E. Bolger, D. Kinsman, A. Kosinski, D. Caballero
+About 15 years ago, education researchers conducted a systematic literature review (SLR) on change strategies for improving undergraduate STEM education instruction. Analyzing 191 articles from 1995 to 2008, the researchers identified four broad categories of change strategies through a comprehensive interdisciplinary literature review: (1) disseminating curriculum and pedagogy, (2) developing reflective teachers, (3) enacting policy, and (4) developing a shared vision. With recent developments in STEM education practices, it is imperative to conduct a follow-up SLR comparing the effects of change strategies and associated student success. Similarly, with the influx of scientific articles published in recent decades, it is time consuming to conduct comprehensive SLRs without the assistance of machine learning (ML) analysis techniques. Working with qualitative researchers, we investigate the impact and ability of using ML to assist in the analysis pipeline through implementing Computational Grounded Theory. 
+
 #### Using Resource Theory to Understand How Students Think About Indexing
 ##### Folks involved: T. Finzell (lead), D. Silvia, D. Caballero
 Students struggle with how to loop through lists in Python, often mixing and matching their strategies between looping by value and looping by index. At the heart of this issue is the concept of indexing, which can be a challenging abstraction for students. My work uses Resource Theory, a cognitive framework based on DiSessa’s Knowledge in Pieces, to identify concepts and procedures that students activate when solving problems involving indexing.
