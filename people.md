@@ -45,7 +45,7 @@ Dawson is a PhD student in CMSE. She received her undergraduate degree in Mathem
 
 #### Cassie Lem (she/her)
 {% include figure.html image="/assets/img/CassieHeadshotCats.jpeg" position="left" width="120px" %}
-Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa Barbara in 2021. Cassie is currently exploring different methods of working with education data. In particular, she has been working on analyzing STEM education literature using Natural Language Processing techniques. She is also a graduate assistant with [Knowledge Commons](https://hcommons.org/) at MSU, and helps to support their open scholarship platform in this role. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
+Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa Barbara in 2021. Cassie is currently working on a project studying the impacts of course transformations on undergraduate students in NatSci departments. She has previously been a graduate assistant with [Knowledge Commons](https://hcommons.org/) at MSU. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
 
 #### Maddy Nomer (she/her)
 Maddy is currently a masters student in the MSDS program. She earned her bachelor's degree in Psychology with a minor in Social Science Quantitative Data Analysis. Throughout her time at MSU, Maddy has worked as an undergraduate learning assistant and a teaching assistant for CMSE 201. Prior to joining CERL, Maddy’s research focused on sleep, specifically how melatonin impacted sleep and cognition in healthy young adults. In her free time, Maddy enjoys playing with her cat and reading.
