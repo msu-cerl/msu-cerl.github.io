@@ -326,6 +326,12 @@ Physics Programs.
 
 ## 2015
 
+Chasteen, S. V., Wilcox, B., Caballero, M. D., & Perkins, K. (2015).
+Educational transformation in upper-division physics: The Science
+Education Initiative model, outcomes, and lessons learned. *Physical
+Review Physics Education Research*.
+<https://doi.org/10.1103/physrevstper.11.020110>
+
 Obsniuk, M. J., Irving, P. W., & Caballero, M. D. (2015). *A Case Study:
 Novel Group Interactions through Introductory Computational Physics*.
 239–242. <https://doi.org/10.1119/perc.2015.pr.055>
@@ -360,18 +366,4 @@ Review Special Topics - Physics Education Research*, *8*(2), 020106.
 
 Caballero, M. D. (2011). Evaluating and Extending a Novel Course Reform
 of Introductory Mechanics. *PhD Dissertation*.
-
-## 2008
-
-Chonacky, N., & Winch, D. (2008). Integrating computation into the
-undergraduate curriculum: A vision and guidelines for future
-developments. *American Journal of Physics*, *76*(4), 327–333.
-
-## Unknown
-Chasteen, S. V., Wilcox, B., Caballero, M. D., Special, K. P. P. R., &
-2015. (n.d.). Educational transformation in upper-division physics: The
-Science Education Initiative model, outcomes, and lessons learned.
-*Physical Review Physics Education Research*.
-<https://doi.org/10.1103/physrevstper.11.020110>
-
 
