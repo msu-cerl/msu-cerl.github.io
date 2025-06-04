@@ -37,7 +37,7 @@ Justin is a fixed-term assistant professor in CMSE and is a member of CERL. Just
 
 #### Sona Chitchyan (she/they)
 {% include figure.html image="/assets/img/Sona_headshot.JPG" position="left" width="120px" %}
-Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. Currently they are an MSU FAST fellow, working on designing an assignment for CMSE202. In their free time they enjoy playing racquetball and watching TV shows. Sona is also interested in contributing to open source codes in astrophysics.  
+Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. In 2024-2025, Sona created an interactive homework assignment for CMSE 202, exploring how usage of astronomy context in agent-based modeling affects student learning. Currently, Sona is working on Feedback Engagement and Analysis in the asSessmenTs (FEAST) project, exploring what actionable feedback looks like in an introductory computing course and how the process of providing feedback can be improved. They enjoy playing racquetball, researching coffee, baking bread, and watching TV shows in their free time. Sona is also interested in contributing to open-source codes in astrophysics.  
 
 #### [Dawson Kinsman](https://dawson-kinsman.netlify.app) (she/her)
 
