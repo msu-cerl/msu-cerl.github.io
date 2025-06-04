@@ -5,9 +5,9 @@ title: The awesome folks in CERL
 ---
 ### Group Leaders
 
-#### Danny Caballero (he/him)
+#### [Danny Caballero](https://dannycab.github.io/) (he/him)
 {% include figure.html image="/assets/img/DannyCaballero_headshot.jpeg" position="left" width="120px" %}
-Danny is an associate professor in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He holds the Lappan-Phillips Chair of Physics Education, co-directs the [Physics Education Research Lab](https://perl.natsci.msu.edu), and is the principal investigator of the [Learning Machines Lab](https://learningmachineslab.github.io). He earned his Bachelor's degree in physics from the [University of Texas at Austin](https://ph.utexas.edu), and his Master's and PhD in physics from the [Georgia Institute of Technology](https://physics.gatech.edu). Danny worked as a Science Teaching Postdoctoral Fellow at the [University of Colorado Boulder](https://www.colorado.edu/physics) before joining the faculty at Michigan State. His research focuses on computational education and the use of data science to address questions in STEM education. In his free time, he bikes, skateboards, and barbecues. His website can be found [here](https://dannycab.github.io/).
+Danny is an associate professor in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He holds the Lappan-Phillips Chair of Physics Education, co-directs the [Physics Education Research Lab](https://perl.natsci.msu.edu), and is the principal investigator of the [Learning Machines Lab](https://learningmachineslab.github.io). He earned his Bachelor's degree in physics from the [University of Texas at Austin](https://ph.utexas.edu), and his Master's and PhD in physics from the [Georgia Institute of Technology](https://physics.gatech.edu). Danny worked as a Science Teaching Postdoctoral Fellow at the [University of Colorado Boulder](https://www.colorado.edu/physics) before joining the faculty at Michigan State. His research focuses on computational education and the use of data science to address questions in STEM education. In his free time, he bikes, skateboards, and barbecues.
 
 #### Rachel Frisbie (she/her)
 {% include figure.html image="/assets/img/frisbie_headshot.jpg" position="left" width="120px" %}
@@ -61,6 +61,10 @@ Maddy is currently a masters student in the MSDS program. She earned her bachelo
 Tor is a postdoc at the [University of Oslo, Norway](https://www.uio.no/english/), where he studies how computation can be used to improve physics teaching and how machine learning methods can be applied to science education research. He holds a bachelor’s degree in physics from [St. Olaf College](https://wp.stolaf.edu/), a master’s in physics from the [University of Wisconsin-Madison](https://www.wisc.edu/), and a PhD in physics education also from the University of Wisconsin-Madison. In his spare time Tor is an active fiddle player, cross-country skier, wood-carver, and graphic novel enthusiast.
 
 ### CERL Squirrel Alumni!
+
+#### [Alia Valentine](https://valentine-alia.github.io/) (she/her)
+{% include figure.html image="/assets/img/alia.jpg" position="left" width="120px" %}
+Alia is a PhD student at the Center for Applied Mathematics at Cornell University. She earned a BS in Physics and Math with a minor in CMSE from MSU in 2024. She is interested in dynamical systems, mathematical biology, and math/computation education. In her spare time she plays bass, takes photos of birds, and designs TTRPGs.
 
 #### Amanda Bowerman (she/her)
 {% include figure.html image="/assets/img/Amanda_headshot.jpg" position="left" width="120px" %}
