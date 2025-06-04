@@ -49,6 +49,8 @@ navigation_header:
   url: /curriculumdev/
 - title: Publications
   url: /pubs/
+- title: Outreach
+  url: /outreach/
 
 # Footer nav
 navigation_footer:
