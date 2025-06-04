@@ -54,9 +54,6 @@ Maddy is currently a masters student in the MSDS program. She earned her bachelo
 {% include figure.html image="/assets/img/RachelRoca_headshot.jpg" position="left" width="120px" %}
 [Rachel](https://sites.google.com/msu.edu/rachel-e-roca/home) is a PhD student in CMSE. She earned her bachelor's degree in mathematics from Manhattan College in 2021, where she also minored in computer science and Spanish. Their research interests are interdisciplinary and span three areas: topological data analysis (the study of the shape of data), computational education, and humanistic mathematics for social good. Currently, their interests focus on studying identity and ethics in undergraduate courses. Rachel has TAed and developed assignments for CMSE 201, CMSE 381, and CMSE 402, and this past summer, she was an instructor of record for CMSE 201. Outside of research, Rachel is involved in various DEI and outreach programs and is the president of the MSU State Swing Society. In her free time, Rachel loves to read, go to the beach, travel, and have good food and drink with good people.
 
-#### Paige Tourangeau (she/her)
-Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV. 
-
 ### External Collaborators
 
 #### Tor Ole Odden (he/him)
@@ -82,6 +79,8 @@ Tom is a assistant professor in CMSE working in CERL. His research focuses on ho
 {% include figure.html image="/assets/img/PattiHamerski_headshot.jpg" position="left" width="120px" %}
 Patti is an assistant professor in CMSE. Her research is based out of CERL and she teaches CMSE 201 and STT 180. She finished her PhD in 2021 doing physics education research at MSU, studying how high school students perceive and deal with affect-based challenges when learning physics through computation. She is interested broadly in the intersection of computing, disciplinary learning, and affect. Her current research focuses on CMSE 201 (an introductory interdisciplinary computing course), and involves students’ perspectives on self-efficacy for interdisciplinary computing, the impact of personalized written feedback on students, and curriculum design for three-dimensional learning and sustainability. Outside of work, Patti loves to play with her German shorthaired pointer, explore Michigan’s parks and breweries, and make linocuts.
 
+#### Paige Tourangeau (she/her)
+Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV. 
 
 #### Jacob Underwood (he/him)
 {% include figure.html image="/assets/img/Jacob_headshot.jpg" position="left" width="120px" %}
