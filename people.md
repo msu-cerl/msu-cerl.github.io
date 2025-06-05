@@ -58,6 +58,10 @@ Alex Reynolds is a graduate student in the [Physics Education Research Lab](http
 {% include figure.html image="/assets/img/RachelRoca_headshot.jpg" position="left" width="120px" %}
 [Rachel](https://sites.google.com/msu.edu/rachel-e-roca/home) is a PhD student in CMSE. She earned her bachelor's degree in mathematics from Manhattan College in 2021, where she also minored in computer science and Spanish. Their research interests are interdisciplinary and span three areas: topological data analysis (the study of the shape of data), computational education, and humanistic mathematics for social good. Currently, their interests focus on studying identity and ethics in undergraduate courses. Rachel has TAed and developed assignments for CMSE 201, CMSE 381, and CMSE 402, and this past summer, she was an instructor of record for CMSE 201. Outside of research, Rachel is involved in various DEI and outreach programs and is the president of the MSU State Swing Society. In her free time, Rachel loves to read, go to the beach, travel, and have good food and drink with good people.
 
+### Kylee Sokacz (she/her)
+{% include figure.html image="/assets/img/KyleeSokacz.jpg" position="left" width="120px" %}
+Kylee is an undergraduate student at Michigan State University, studying Mathematics and Data Science. She works as an Undergraduate Learning Assistant in CMSE 201 and conducts educational research under Rachel Frisbie, focusing on the interactions and utilization of AI in the CMSE 201 classroom. In her free time, Kylee enjoys playing piano, fostering cats, and spending time with her friends.
+
 ### External Collaborators
 
 #### Tor Ole Odden (he/him)
