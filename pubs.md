@@ -23,34 +23,11 @@ Caballero, M. D. (2025). Supporting teachers to integrate computational
 practices and design opportunities for equitable participation in
 science classrooms. *Cognition & Instruction*.
 
-Vignal, M., Geschwind, G., Caballero, M. D., & Lewandowski, H. J.
-(2025). *Couplet scoring for research based assessment instruments*.
-
 ## 2024
 
 Caballero, M. D., & Odden, T. O. B. (2024). Computing in physics
 education. *Nature Physics*, *20*(3), 339–341.
 <https://doi.org/10.1038/s41567-023-02371-2>
-
-Cooper, M. M., Caballero, M. D., Carmel, J. H., Duffy, E. M., Ebert-May,
-D., Fata-Hartley, C. L., Herrington, D. G., Laverty, J. T., Nelson, P.
-C., Posey, L. A., Stoltzfus, J. R., Stowe, R. L., Sweeder, R. D.,
-Tessmer, S., & Underwood, S. M. (2024). Beyond Active Learning: Using
-3-Dimensional Learning to Create Scientifically Authentic,
-Student-Centered Classrooms. *Plos One*, *19*(5), e0295887.
-<https://doi.org/10.1371/journal.pone.0295887>
-
-Geschwind, G., Vignal, M., Caballero, M. D., & Lewandowski, H. J.
-(2024a). Evidence for validity and reliability of a research-based
-assessment instrument on measurement uncertainty. *Phys. Rev. Phys.
-Educ. Res.*, *20*(2), 020125.
-<https://doi.org/10.1103/PhysRevPhysEducRes.20.020125>
-
-Geschwind, G., Vignal, M., Caballero, M. D., & Lewandowski, H. J.
-(2024b). Using a research-based assessment instrument to explore
-undergraduate students’ proficiencies around measurement uncertainty in
-physics lab contexts. *Phys. Rev. Phys. Educ. Res.*, *20*(2), 020105.
-<https://doi.org/10.1103/PhysRevPhysEducRes.20.020105>
 
 ## 2023
 
@@ -63,12 +40,6 @@ Odden, T. O. B., Silvia, D. W., & Malthe‐Sørenssen, A. (2023). Using
 computational essays to foster disciplinary epistemic agency in
 undergraduate science. *Journal of Research in Science Teaching*,
 *60*(5), 937–977. <https://doi.org/10.1002/tea.21821>
-
-Vignal, M., Geschwind, G., Pollard, B., Henderson, R., Caballero, M. D.,
-& Lewandowski, H. J. (2023). Survey of physics reasoning on uncertainty
-concepts in experiments: An assessment of measurement uncertainty for
-introductory physics labs. *Phys. Rev. Phys. Educ. Res.*, *19*(2),
-020139. <https://doi.org/10.1103/PhysRevPhysEducRes.19.020139>
 
 Young, N. T., Tollefson, K., & Caballero, M. D. (2023). Making graduate
 admissions in physics more equitable. *Physics Today*, *76*(7), 40–45.
@@ -166,11 +137,6 @@ physics Graduate Record Examination cutoff scores. *Physical Review
 Physics Education Research*, *17*(1), 010109.
 <https://doi.org/10.1103/PhysRevPhysEducRes.17.010109>
 
-Pollard, B., Hobbs, R., Henderson, R., Caballero, M. D., & Lewandowski,
-H. J. (2021). Introductory physics lab instructors’ perspectives on
-measurement uncertainty. *Physical Review Physics Education Research*,
-*17*(1), 010133. <https://doi.org/10.1103/PhysRevPhysEducRes.17.010133>
-
 Young, N. T., & Caballero, M. D. (2021a). Physics Graduate Record Exam
 does not help applicants “stand out.” *Physical Review Physics Education
 Research*, *17*(1), 010144.
@@ -186,14 +152,6 @@ Educational Data Mining*, *13*(4), 31–86.
 Aiken, J. M., De Bin, R., Hjorth-Jensen, M., & Caballero, M. D. (2020).
 Predicting time to graduation at a large enrollment American university.
 *PLOS ONE*, *15*(11). <https://doi.org/10.1371/journal.pone.0242334>
-
-Bain, K., Matz, R. L., Fata-Hartley, C. L., Caballero, M. D., Ebert-May,
-D., Underwood, S. M., Carmel, J. H., Herrington, D. G., Laverty, J. T.,
-Duffy, E. M., Stoltzfus, J. R., Bender, L., Posey, L. A., Urban-Lurain,
-M., Stowe, R. L., Sweeder, R. D., Tessmer, S. H., & Cooper, M. M.
-(2020). Characterizing College Science Instruction: The
-Three-Dimensional Learning Observation Protocol. *PLOS ONE*, *15*(6),
-e0234640. <https://doi.org/10.1371/journal.pone.0234640>
 
 Bott, T. E., Weller, D. P., Caballero, M., & Irving, P. W. (2020).
 *Student-identified themes around computation in high school physics*.
@@ -230,30 +188,6 @@ pathways in a physics bachelor’s degree program. *Physical Review
 Physics Education Research*, *15*(1), 010128.
 <https://doi.org/10.1103/PhysRevPhysEducRes.15.010128>
 
-Caballero, M. D., Chonacky, N., Engelhardt, L., Hilborn, R. C., Puerto,
-M. L. del, & Roos, K. R. (2019). PICUP: A Community of Teachers
-Integrating Computation into Undergraduate Physics Courses. *The Physics
-Teacher*, *57*(6), 397–399. <https://doi.org/10.1119/1.5124281>
-
-Caballero, M. D., Engelhardt, L., Hilborn, R., Puerto, M. L. del, &
-Roos, K. (2019). PICUP: The Partnership for the Integration of
-Computation into Undergraduate Physics. *APS News*, *28*(3).
-<https://www.aps.org/publications/apsnews/201903/backpage.cfm>
-
-Funkhouser, K., Martinez, W., Henderson, R., & Caballero, M. D. (2019).
-Design, Analysis, Tools, and Apprenticeship (DATA) Lab. *European
-Journal of Physics*, *40*(6), 065701.
-<https://doi.org/10.1088/1361-6404/ab2f0d>
-
-Knaub, A. V., Aiken, J. M., & Caballero, M. D. (2019). Editorial:
-Focused Collection: Quantitative Methods in PER: A Critical Examination.
-*Physical Review Physics Education Research*, *15*(2), 020001.
-<https://doi.org/10.1103/PhysRevPhysEducRes.15.020001>
-
-Leary, A., Irving, P. W., & Caballero, M. (2019). *The difficulties
-associated with integrating computation into undergraduate physics.*
-<https://doi.org/10.1119/perc.2018.pr.Leary>
-
 Odden, T. O. B., Lockwood, E., & Caballero, M. D. (2019). Physics
 computational literacy: An exploratory case study using computational
 essays. *Physical Review Physics Education Research*, *15*(2), 020152.
@@ -273,97 +207,8 @@ Research*, *15*(1), 010114.
 
 ## 2018
 
-Caballero, M. D., Dounas-Frazer, D. R., Lewandowski, H. J., & Stetzer,
-M. R. (2018). Labs are Necessary, and We Need to Invest in Them. *APS
-News*, *27*(5).
-<https://www.aps.org/publications/apsnews/201805/backpage.cfm>
-
-Caballero, M. D., & Hjorth-Jensen, M. (2018). Integrating a
-Computational Perspective in Physics Courses. In S. Magazù (Ed.), *New
-Trends in Physics Education Research* (pp. 47–76). Nova Science
-Publishers.
-
 Caballero, M. D., & Merner, L. (2018). Prevalence and nature of
 computational instruction in undergraduate physics programs across the
 United States. *Physical Review Physics Education Research*, *14*(2),
 020129. <https://doi.org/10.1103/PhysRevPhysEducRes.14.020129>
-
-Irving, P. W., & Caballero, M. D. (2018). *Understanding the PICUP
-community of practice*. 188–191.
-<https://www.per-central.org/items/detail.cfm?ID=14602>
-
-Laverty, J. T., & Caballero, M. D. (2018). Analysis of the most common
-concept inventories in physics: What are we assessing? *Physical Review
-Physics Education Research*, *14*(1), 010123.
-<https://doi.org/10.1103/PhysRevPhysEducRes.14.010123>
-
-Matz, R. L., Fata-Hartley, C. L., Posey, L. A., Laverty, J. T.,
-Underwood, S. M., Carmel, J. H., Herrington, D. G., Stowe, R. L.,
-Caballero, M. D., Ebert-May, D., & Cooper, M. M. (2018). Evaluating the
-extent of a large-scale transformation in gateway science courses.
-*Science Advances*, *4*(10). <https://doi.org/10.1126/sciadv.aau0554>
-
-Stroupe, D., Caballero, M. D., & White, P. (2018). Fostering students’
-epistemic agency through the co-configuration of moth research. *Science
-Education*, 1–25. <https://doi.org/10.1002/sce.21469>
-
-## 2017
-
-Caballero, M. D. (2017). Taking A Scientific Approach To Physics
-Education. *Student Journal of Physics*, *6*(1).
-<https://www.iopb.res.in/~sjp/sjp_past_issues/V6N1/1.pdf>
-
-Irving, P. W., Obsniuk, M. J., & Caballero, M. D. (2017). P <sup>3</sup>
-: A practice focused learning environment. *European Journal of
-Physics*, *38*(5), 055701. <https://doi.org/10.1088/1361-6404/aa7529>
-
-## 2016
-
-*Phys21: Preparing Physics Students for 21st-Century Careers*. (2016).
-\[Project {Report}\]. The American Physical Society; The American
-Association of Physics Teachers, Joint Task Force on Undergraduate
-Physics Programs.
-
-## 2015
-
-Chasteen, S. V., Wilcox, B., Caballero, M. D., & Perkins, K. (2015).
-Educational transformation in upper-division physics: The Science
-Education Initiative model, outcomes, and lessons learned. *Physical
-Review Physics Education Research*.
-<https://doi.org/10.1103/physrevstper.11.020110>
-
-Obsniuk, M. J., Irving, P. W., & Caballero, M. D. (2015). *A Case Study:
-Novel Group Interactions through Introductory Computational Physics*.
-239–242. <https://doi.org/10.1119/perc.2015.pr.055>
-
-## 2014
-
-Caballero, M. D., & Pollock, S. J. (2014). A model for incorporating
-computation without changing the course: An example from middle-division
-classical mechanics. *American Journal of Physics*, *82*(3), 231–237.
-https://doi.org/<http://dx.doi.org/10.1119/1.4837437>
-
-## 2012
-
-Aiken, J. M., Caballero, M. D., Douglas, S. S., Burk, J. B., Scanlon, E.
-M., Thoms, B. D., & Schatz, M. F. (2012). *Understanding Student
-Computational Thinking with Computational Modeling*.
-
-Caballero, M. D., Burk, J. B., Aiken, J. M., Douglas, S. S., Scanlon, E.
-M., Thoms, B., & Schatz, M. F. (2012). Integrating Numerical Computation
-into the Modeling Instruction Curriculum. *Physics Teacher*. [Physics
-Teacher](https://Physics Teacher)
-
-Caballero, M. D., Kohlmyer, M. A., & Schatz, M. F. (2012). *Fostering
-computational thinking in introductory mechanics*. *1413*, 15–18.
-
-Caballero, M., Kohlmyer, M., & Schatz, M. (2012). Implementing and
-assessing computational modeling in introductory mechanics. *Physical
-Review Special Topics - Physics Education Research*, *8*(2), 020106.
-<https://doi.org/10.1103/physrevstper.8.020106>
-
-## 2011
-
-Caballero, M. D. (2011). Evaluating and Extending a Novel Course Reform
-of Introductory Mechanics. *PhD Dissertation*.
 
