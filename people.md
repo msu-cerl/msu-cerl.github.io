@@ -43,6 +43,10 @@ Sona is a PhD student at CMSE working in CERL, focusing on studying the process 
 
 Dawson is a PhD student in CMSE. She received her undergraduate degree in Mathematics and Applied Statistics from the University of Michigan-Dearborn, where she also received master's degree in Applied and Computational Mathematics. Her research interests include applied statistical and machine learning methods, especially with social science and education data. Prior to joining MSU, Dawson's projects focused on applying statistical and topological data analysis methods to Shotspotter and police shooting data from Detroit, Michigan. Outside of research, Dawson enjoys rock climbing, hiking, discovering new music, and hanging out with friends and family.
 
+#### Anthony Kosinski (he/him)
+{% include figure.html image="/assets/img/ajk.jpg" position="left" width="120px" %}
+Anthony is an undergraduate student at Michigan State University, studying Computational Data Science with a minor in German. He conducts research under Emily Bolger, with a focus on using computational methods to analyze STEM research papers. In his free time, Anthony enjoys taking long bike rides, learning about history, and playing the accordion.
+
 #### Cassie Lem (she/her)
 {% include figure.html image="/assets/img/CassieHeadshotCats.jpeg" position="left" width="120px" %}
 Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa Barbara in 2021. Cassie is currently working on a project studying the impacts of course transformations on undergraduate students in NatSci departments. She has previously been a graduate assistant with [Knowledge Commons](https://hcommons.org/) at MSU. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
