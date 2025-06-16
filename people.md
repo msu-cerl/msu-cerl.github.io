@@ -39,6 +39,10 @@ Justin is a fixed-term assistant professor in CMSE and is a member of CERL. Just
 {% include figure.html image="/assets/img/Sona_headshot.JPG" position="left" width="120px" %}
 Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. In 2024-2025, Sona created an interactive homework assignment for CMSE 202, exploring how usage of astronomy context in agent-based modeling affects student learning. Currently, Sona is working on Feedback Engagement and Analysis in the asSessmenTs (FEAST) project, exploring what actionable feedback looks like in an introductory computing course and how the process of providing feedback can be improved. They enjoy playing racquetball, researching coffee, baking bread, and watching TV shows in their free time. Sona is also interested in contributing to open-source codes in astrophysics.  
 
+#### Ishita
+{% include figure.html image="/assets/img/IMG_0221.jpg" position="left" width="120px" %}
+Ishita is an undergraduate student at Michigan State University, majoring in Computational Data Science and Statistics. She is involved in educational research under Rachel Roca, focusing on student identity in data science classrooms. In her free time, Ishita enjoys reading books, playing chess and taking piano lessons.
+
 #### [Dawson Kinsman](https://dawson-kinsman.netlify.app) (she/her)
 
 Dawson is a PhD student in CMSE. She received her undergraduate degree in Mathematics and Applied Statistics from the University of Michigan-Dearborn, where she also received master's degree in Applied and Computational Mathematics. Her research interests include applied statistical and machine learning methods, especially with social science and education data. Prior to joining MSU, Dawson's projects focused on applying statistical and topological data analysis methods to Shotspotter and police shooting data from Detroit, Michigan. Outside of research, Dawson enjoys rock climbing, hiking, discovering new music, and hanging out with friends and family.
