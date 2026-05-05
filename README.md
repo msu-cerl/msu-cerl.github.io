@@ -46,6 +46,15 @@ uv run python bin/create_pubs.py
 
 Then commit the updated `content/pages/pubs.md` along with your bib changes.
 
+## GitHub Pages setup
+
+The site deploys automatically via GitHub Actions on every push to `main`. One-time setup required in the repository settings:
+
+1. Go to **Settings → Pages**
+2. Under **Source**, select **GitHub Actions** (not "Deploy from a branch")
+
+After that, pushing to `main` triggers the workflow, which builds the Pelican site and deploys the output. You can also trigger a deploy manually from the **Actions** tab using the "Run workflow" button.
+
 ## Questions or contributions
 
 Let me know if you run into issues when working with the website. If you have content you’d like to have featured on the website, but would rather not go down the path of updating the repo yourself, just send that along and I’ll get it up there.
