@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/theme-{{ COLOR_SCHEME }}.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css">
+  {% if SITEURL and page is defined %}
+  <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
+  {% endif %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="{{ SITEURL }}/" class="site-brand">
+        <span class="site-name">{{ SITENAME }}</span>
+      </a>
+      <nav class="site-nav">
+        <ul>
+          {% for label, url in MENUITEMS %}
+          <li>
+            <a href="{{ url }}"
+              {% if page is defined and page.slug is defined %}
+                {% if (page.slug == 'home' and url == '/') or (page.slug != 'home' and '/' + page.slug + '/' == url) %}
+                class="active"
+                {% endif %}
+              {% endif %}
+            >{{ label }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  {% block feature %}{% endblock %}
+
+  <div class="page-wrap {% block layout_class %}{% endblock %}">
+    {% block body %}{% endblock %}
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      {% if SITELOGO %}
+      <a href="{{ SITEURL }}/" class="footer-logo">
+        <img src="{{ SITEURL }}{{ SITELOGO }}" alt="{{ SITENAME }}" height="52">
+      </a>
+      {% endif %}
+    </div>
+  </footer>
+</body>
+</html>

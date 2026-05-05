@@ -1,0 +1,113 @@
+Title: The awesome folks in CERL
+Slug: people
+
+### Group Leaders
+
+#### [Danny Caballero](https://dannycab.github.io/) (he/him)
+<img src="/assets/img/DannyCaballero_headshot.jpeg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Danny Caballero">
+Danny is an associate professor in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He holds the Lappan-Phillips Chair of Physics Education, co-directs the [Physics Education Research Lab](https://perl.natsci.msu.edu), and is the principal investigator of the [Learning Machines Lab](https://learningmachineslab.github.io). He earned his Bachelor's degree in physics from the [University of Texas at Austin](https://ph.utexas.edu), and his Master's and PhD in physics from the [Georgia Institute of Technology](https://physics.gatech.edu). Danny worked as a Science Teaching Postdoctoral Fellow at the [University of Colorado Boulder](https://www.colorado.edu/physics) before joining the faculty at Michigan State. His research focuses on computational education and the use of data science to address questions in STEM education. In his free time, he bikes, skateboards, and barbecues.
+
+#### Rachel Frisbie (she/her)
+<img src="/assets/img/frisbie_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Rachel Frisbie">
+
+Rachel is an assistant professor in the Computational Education Research Lab (CERL). She earned her Bachelor's degree in Physics from The University of Scranton, and she earned her PhD in Astrophysics from Michigan State University in 2020. Since 2020, she has been teaching courses in CMSE and engaging in computational science education research with the Computational Education Research Lab (CERL) at MSU. Her current research interests include qualitative approaches to exploring how students problem solve using computational concepts as they progress through their education as well as how those findings can be applied to courses like the ones we teach in CMSE to improve student outcomes. She also is interested in investigating the impact of weekly group and individual feedback on students' experiences in class. Elsewhere on campus, Rachel is a [STEM Teaching and Learning Fellow](https://3dl4us.org/) and helps run [Astronomy on Tap - Lansing](https://www.facebook.com/AoTLansing). Outside of work, Rachel enjoys exploring with her spouse, toddler, and dog, playing oboe and ukulele, powerlifting, and tin smithing.
+
+#### Brian O'Shea (he/him)
+<img src="/assets/img/BrianOShea_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Brian O'Shea">
+Brian is a professor in the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu) and the [Department of Physics and Astronomy](https://pa.msu.edu). He is also a member of the [National Superconducting Cyclotron Laboratory](https://nscl.msu.edu/) and the current Director of MSU's [Institute for Cyber-Enabled Research](https://icer.msu.edu/). Prior to joining MSU, he received his PhD in physics from the [University of Illinois at Urbana-Champaign](https://physics.illinois.edu/) and was a postdoc at [Los Alamos National Laboratory](https://lanl.gov/) in the Theoretical Astrophysics Group and Applied Physics Division. His research interests include galaxy formation, turbulence, plasma physics, and computational science education. In his free time, he enjoys cooking, gardening, biking, and hiking. His website can be found [here](https://web.pa.msu.edu/people/osheabr/).
+
+#### [Devin Silvia](www.devinsilvia.com) (he/him)
+<img src="/assets/img/DevinSilvia_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Devin Silvia">
+Devin is the Director of Undergraduate Studies and a teaching specialist in the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He received his PhD in [Astrophysical and Planetary Sciences](https://www.colorado.edu/aps/) from the [University of Colorado](https://www.colorado.edu) where he worked as a computational astrophysicist running simulations aimed at understanding various facets of chemical evolution in the universe. He then worked as a National Science Foundation Astronomy and Astrophysics postdoctoral fellow at MSU before joining the ranks of the CMSE faculty in 2017. In addition to his computational astrophysics research, Devin is passionate about STEM education and creating more equitable and inclusive STEM classrooms. When he's not working, he enjoys brewing beer, roasting coffee, and running all over the greater Lansing area.
+
+#### [Aman Yadav](https://www.amanyadav.org/) (he/him)
+<img src="/assets/img/IMG_0450.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Aman Yadav">
+Aman Yadav is the Lappan-Phillips Professor of Computing Education in the College of Education and College of Natural Science at Michigan State University with extensive experience in research, evaluation, and teacher professional development. His research and teaching focus on supporting educators to understand, apply, and critically evaluate the use of computing in K-12 classrooms. He leads several projects that design, implement, and assess how professional learning experiences can support teachers to bring computational tools and practices to support their disciplinary teaching. His co-edited book, [Computational Thinking in Education: A Pedagogical Perspective](https://www.routledge.com/Computational-Thinking-in-Education-A-Pedagogical-Perspective/Yadav-Berthelsen/p/book/9780367610357) tackles how to integrate computational thinking, coding, and subject matter in relevant and meaningful ways. His website is [here](https://www.amanyadav.org/).
+
+### Group Members
+
+#### Justin Gambrell (he/him)
+<img src="/assets/img/justin_gambrell_headshot.jpeg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Justin Gambrell">
+Justin is a fixed-term assistant professor in CMSE and is a member of CERL. Justin earned his Bachelor's degree in Physics from Michigan State University along with a minor in Mathematics in 2018. In 2024 he earned his PhD in Physics from Drexel University specializing in Physics Education Research. Justin is currently teaching CMSE 201 and 202. His research has focused on assessment development of computational thinking in introductory physics. Justin's current research interests are in expanding assessment development in terms of exploring student affect, and examining differences in computational thinking based on the computational environment used. In his free time he enjoys playing video games, catching up on a massive watch list, and propagating house plants.
+
+#### Emily Bolger (she/her)
+<img src="/assets/img/EmilyBolger_headshot3.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Emily Bolger">
+Emily is a PhD student in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor's degree in Mathematics from Moravian College. Her current research uses computational tools, specifically Social Network Analysis and Natural Language Processing, to analyze education-related data. Her most recent project involves using Natural Language Processing to analyze literature published on change strategies for improving undergraduate STEM instruction. The project is multi-method synthesis in collaboration with four other research institutions. In addition to research, she has been a Teaching Assistant for CMSE 201 and CMSE 381. In her free time, she enjoys reading, crocheting, and dancing. Her website can be found [here](https://egbolger.github.io/).
+
+#### Sona Chitchyan (she/they)
+<img src="/assets/img/Sona_headshot.JPG" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Sona Chitchyan">
+Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. In 2024-2025, Sona created an interactive homework assignment for CMSE 202, exploring how usage of astronomy context in agent-based modeling affects student learning. Currently, Sona is working on Feedback Engagement and Analysis in the asSessmenTs (FEAST) project, exploring what actionable feedback looks like in an introductory computing course and how the process of providing feedback can be improved. They enjoy playing racquetball, researching coffee, baking bread, and watching TV shows in their free time. Sona is also interested in contributing to open-source codes in astrophysics.
+
+#### Ishita
+<img src="/assets/img/IMG_0221.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Ishita">
+Ishita is an undergraduate student at Michigan State University, majoring in Computational Data Science and Statistics. She is involved in educational research under Rachel Roca, focusing on student identity in data science classrooms. In her free time, Ishita enjoys reading books, playing chess and taking piano lessons.
+
+#### [Dawson Kinsman](https://dawson-kinsman.netlify.app) (she/her)
+
+Dawson is a PhD student in CMSE. She received her undergraduate degree in Mathematics and Applied Statistics from the University of Michigan-Dearborn, where she also received master's degree in Applied and Computational Mathematics. Her research interests include applied statistical and machine learning methods, especially with social science and education data. Prior to joining MSU, Dawson's projects focused on applying statistical and topological data analysis methods to Shotspotter and police shooting data from Detroit, Michigan. Outside of research, Dawson enjoys rock climbing, hiking, discovering new music, and hanging out with friends and family.
+
+#### Anthony Kosinski (he/him)
+<img src="/assets/img/ajk.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Anthony Kosinski">
+Anthony is an undergraduate student at Michigan State University, studying Computational Data Science with a minor in German. He conducts research under Emily Bolger, with a focus on using computational methods to analyze STEM research papers. In his free time, Anthony enjoys taking long bike rides, learning about history, and playing the accordion.
+
+#### Cassie Lem (she/her)
+<img src="/assets/img/CassieHeadshotCats.jpeg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Cassie Lem">
+Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa Barbara in 2021. Cassie is currently working on a project studying the impacts of course transformations on undergraduate students in NatSci departments. She has previously been a graduate assistant with [Knowledge Commons](https://hcommons.org/) at MSU. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
+
+#### Maddy Nomer (she/her)
+Maddy is currently a masters student in the MSDS program. She earned her bachelor's degree in Psychology with a minor in Social Science Quantitative Data Analysis. Throughout her time at MSU, Maddy has worked as an undergraduate learning assistant and a teaching assistant for CMSE 201. Prior to joining CERL, Maddy's research focused on sleep, specifically how melatonin impacted sleep and cognition in healthy young adults. In her free time, Maddy enjoys playing with her cat and reading.
+
+#### Alex Reynolds (she/they)
+<img src="/assets/img/AlexReynolds.png" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Alex Reynolds">
+Alex Reynolds is a graduate student in the [Physics Education Research Lab](https://perl.natsci.msu.edu) and CERL, and their current research interests are around supporting integration of a variation in computing practices in the physics classroom through the PICUP project. They also research accessibility in physics spaces, including experiences of students with ADHD in physics group work. In the past, they have researched student's mathematical reasoning in online labs and developed curriculum around teaching coding in physics labs. Alex received a Bachelor's in Comprehensive and Teaching Physics in 2023 from the University of Washington and taught high school conceptual and AP physics before coming to graduate school at MSU. In their free time, Alex participates in many yarn-based crafts, plays board games and TTRPGs, and hikes.
+
+#### Rachel Roca (she/they)
+<img src="/assets/img/RachelRoca_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Rachel Roca">
+[Rachel](https://sites.google.com/msu.edu/rachel-e-roca/home) is a PhD student in CMSE. She earned her bachelor's degree in mathematics from Manhattan College in 2021, where she also minored in computer science and Spanish. Their research interests are interdisciplinary and span three areas: topological data analysis (the study of the shape of data), computational education, and humanistic mathematics for social good. Currently, their interests focus on studying identity and ethics in undergraduate courses. Rachel has TAed and developed assignments for CMSE 201, CMSE 381, and CMSE 402, and this past summer, she was an instructor of record for CMSE 201. Outside of research, Rachel is involved in various DEI and outreach programs and is the president of the MSU State Swing Society. In her free time, Rachel loves to read, go to the beach, travel, and have good food and drink with good people.
+
+#### Kylee Sokacz (she/her)
+<img src="/assets/img/KyleeSokacz.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Kylee Sokacz">
+Kylee is an undergraduate student at Michigan State University, studying Mathematics and Data Science. She works as an Undergraduate Learning Assistant in CMSE 201 and conducts educational research under Rachel Frisbie, focusing on the interactions and utilization of AI in the CMSE 201 classroom. In her free time, Kylee enjoys playing piano, fostering cats, and spending time with her friends.
+
+### External Collaborators
+
+#### Tor Ole Odden (he/him)
+<img src="/assets/img/tor.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Tor Ole Odden">
+Tor is a postdoc at the [University of Oslo, Norway](https://www.uio.no/english/), where he studies how computation can be used to improve physics teaching and how machine learning methods can be applied to science education research. He holds a bachelor's degree in physics from [St. Olaf College](https://wp.stolaf.edu/), a master's in physics from the [University of Wisconsin-Madison](https://www.wisc.edu/), and a PhD in physics education also from the University of Wisconsin-Madison. In his spare time Tor is an active fiddle player, cross-country skier, wood-carver, and graphic novel enthusiast.
+
+### CERL Squirrel Alumni!
+
+#### [Alia Valentine](https://valentine-alia.github.io/) (she/her)
+<img src="/assets/img/alia.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Alia Valentine">
+Alia is a PhD student at the Center for Applied Mathematics at Cornell University. She earned a BS in Physics and Math with a minor in CMSE from MSU in 2024. She is interested in dynamical systems, mathematical biology, and math/computation education. In her spare time she plays bass, takes photos of birds, and designs TTRPGs.
+
+#### Amanda Bowerman (she/her)
+<img src="/assets/img/Amanda_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Amanda Bowerman">
+Amanda is currently working on a PhD at the University of Oslo in the Mathematics and Natural Sciences Department. She earned her bachelor's degree in Data Science with a minor in Cognitive Sciences in 2022 from MSU. She also completed her master's degree in Computational Mathematics Science and Engineering in 2024. Her current research explores the methodology behind utilizing Natural Language Processing to aid in doing deductive coding of qualitative data. Amanda did curriculum development for CMSE 201 and CMSE 202, as well as having taught a number of entry level data science courses during her time at MSU. Outside of her research, she enjoys spending her time with her cat, playing guitar, learning Norwegian, and exploring Oslo!
+
+#### Sarah Castle (she/her)
+<img src="/assets/img/SarahCastle_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Sarah Castle">
+Sarah earned her masters in Mathematics and PhD in Mathematics Education from Michigan State University in 2023. She earned her bachelor's degrees in Mathematics and Engineering Physics from Whitworth University. During this time her research projects were at the intersection of mathematics, engineering, and computation, including modeling biological fluid shifts in microgravity and evaluating electric propulsion systems for asteroid and comet sample-return missions. Sarah continued this research at Princeton in the Mechanical and Aerospace Engineering program before turning to mathematics education research. Her passion is exploring how computation enacted through coding in undergraduate mathematics classrooms can bring about deeper understandings of mathematical structures and develop mathematical creativity. Her most recent project focuses on introducing CMSE 201 students to linear algebra through a series of modules in Jupyter Notebooks and the relation with mathematical creativity. In her free time, she enjoys hiking, swimming, playing with her cats, and crafting.
+
+#### Tom Finzell (he/him)
+<img src="/assets/img/TomFinzell_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Tom Finzell">
+Tom is a assistant professor in CMSE working in CERL. His research focuses on how students learn the computational data manipulation tools ubiquitous across all STEM disciplines, emphasizing equitably and inclusively. Tom has also worked on integrating computation into the core curriculum of physics, and more broadly, in STEM and beyond. He believes that a lack of preparation in computation can propagate historical and structural barriers that stand in the way of success for disenfranchised groups. Tom's Ph.D. work was in astronomy, focused on modeling multi-wavelength observations of gamma-ray-emitting Classical Novae, specifically focusing on the V1324 Sco. Tom used radio observations to probe the extensive properties of nova ejecta, optical data as a diagnostic of the plasma, and gamma-ray data to constrain the dynamics of the event.
+
+#### Patti Hamerski (she/her)
+<img src="/assets/img/PattiHamerski_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Patti Hamerski">
+Patti is an assistant professor in CMSE. Her research is based out of CERL and she teaches CMSE 201 and STT 180. She finished her PhD in 2021 doing physics education research at MSU, studying how high school students perceive and deal with affect-based challenges when learning physics through computation. She is interested broadly in the intersection of computing, disciplinary learning, and affect. Her current research focuses on CMSE 201 (an introductory interdisciplinary computing course), and involves students' perspectives on self-efficacy for interdisciplinary computing, the impact of personalized written feedback on students, and curriculum design for three-dimensional learning and sustainability. Outside of work, Patti loves to play with her German shorthaired pointer, explore Michigan's parks and breweries, and make linocuts.
+
+#### Paige Tourangeau (she/her)
+Paige is an undergraduate student studying statistics at Michigan State University. Her research interests surround studying various aspects of student experience and perception of their success in the classroom. In her free time, she enjoys doing yoga, trying new foods, and watching reality TV.
+
+#### Jacob Underwood (he/him)
+<img src="/assets/img/Jacob_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Jacob Underwood">
+Jacob is an undergraduate student studying computer science from Arizona State University. His research interests include computer programming education and natural language processing. In his free time, he likes reading science fiction, exploring nature, and learning a new language. Jacob joined CERL for the [2023 ACRES REU Program](https://icer-acres.msu.edu/)!
+
+#### Krithi Sachithanand (she/her)
+<img src="/assets/img/KrithiSachithanand_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Krithi Sachithanand">
+Krithi is an undergraduate student studying Computational Data Science at Michigan State University. Her research interests include studying user experience through classroom application. Outside of work, she likes trying different flavors of ice-cream, karaoke and crafting.
+
+#### Nat Hawkins (he/him)
+<img src="/assets/img/headshot_reduced.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Nat Hawkins">
+Nat is a former post-bac researcher with CERL. He completed a Masters in CMSE and is now working as a Business Intelligence Analyst for the Kellogg Company.

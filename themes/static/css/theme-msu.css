@@ -1,0 +1,18 @@
+/* ── MSU brand color scheme ───────────────────────────────── */
+:root {
+  --color-header-bg:      #18453b;
+  --color-header-text:    #f0f0f0;
+  --color-heading:        #18453b;
+  --color-heading-border: #18453b;
+  --color-accent:         #008208;
+  --color-accent-hover:   #18453b;
+  --color-body-bg:        #ffffff;
+  --color-text:           #1a1a1a;
+  --color-text-light:     #555555;
+  --color-border:         #d6e4d6;
+  --color-aside-bg:       #eaf3ec;
+  --color-aside-border:   #18453b;
+  --color-footer-bg:      #f0f4f0;
+  --color-footer-border:  #18453b;
+  --color-blockquote:     #0b9a6d;
+}
