@@ -4,7 +4,7 @@ SITEURL = ""
 SITELOGO = "/assets/img/logo.png"
 
 SITE_DESCRIPTION = """
-We're working to demystify how college students learn to do computational work.
+We're working to demystify how college students learn computing in the modern era.
 <br><br>
 Interested in joining us?<br>
 Send an email to <a href="mailto:dsilvia@msu.edu">dsilvia@msu.edu</a>.
