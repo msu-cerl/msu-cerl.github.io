@@ -6,6 +6,7 @@ dependencies = [
     "pelican[markdown]>=4.10",
     "pelican-sitemap>=1.1",
     "typogrify>=2.0",
+    "pypandoc-binary>=1.13",
 ]
 
 [dependency-groups]

@@ -38,7 +38,8 @@ All content lives under `content/pages/` as Markdown files with Pelican metadata
 - `templates/base.html` — shared header/footer, nav, canonical link
 - `templates/index.html` — extends base; adds feature hero image and aside sidebar
 - `templates/page.html` — extends base; standard content page
-- `static/css/style.css` — all styles; no external CSS dependencies
+- `static/css/style.css` — layout/typography; no hardcoded colors
+- `static/css/theme-msu.css` / `static/css/theme-cerl.css` — color tokens per scheme
 
 **Config:**
 
@@ -92,10 +93,10 @@ Place headshot images in `content/assets/img/`. The `<img>` tag is optional — 
 Publications are generated from a BibTeX file — do not manually edit `content/pages/pubs.md`.
 
 1. Add new entries to `content/assets/bib/group_publications.bib`
-2. From the `bin/` directory, run:
+2. Run from anywhere in the repo:
 
 ```bash
-./create_pubs.sh
+uv run python bin/create_pubs.py
 ```
 
-The script requires `pandoc` (with `--citeproc`) and `gawk`. It renders citations in APA format, groups them by year descending, and writes `content/pages/pubs.md` with Pelican metadata.
+The script uses `pypandoc` (bundled binary, no system install needed) with `--citeproc` to render APA citations, groups them by year descending, and writes `content/pages/pubs.md` with Pelican metadata. `bin/create_pubs.sh` is kept as a reference for the old shell-based workflow.
