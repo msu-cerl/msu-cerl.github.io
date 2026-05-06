@@ -16,7 +16,12 @@
 </main>
 <aside class="page-aside">
   <section class="aside-section">
-    <img src="{{ SITEURL }}/assets/img/CERL_squirrel_logo_v1_nobackground_blacktext.png" alt="CERL squirrel logo" class="aside-logo">
+    <picture>
+      <source srcset="{{ SITEURL }}/assets/img/CERL_squirrel_nobackground_whitetext_v2.png"
+              media="(prefers-color-scheme: dark)">
+      <img src="{{ SITEURL }}/assets/img/CERL_squirrel_logo_v1_nobackground_blacktext.png"
+           alt="CERL squirrel logo" class="aside-logo">
+    </picture>
     <h3>Welcome!</h3>
     <p>{{ SITE_DESCRIPTION | safe }}</p>
   </section>
