@@ -18,7 +18,7 @@ FEATURE_IMAGE = "/assets/img/foggy_michigan.jpg"
 PATH = "content"
 PAGE_PATHS = ["pages"]
 ARTICLE_PATHS = []
-STATIC_PATHS = ["assets"]
+STATIC_PATHS = ["assets/img"]
 
 TIMEZONE = "America/Detroit"
 DEFAULT_LANG = "en"
