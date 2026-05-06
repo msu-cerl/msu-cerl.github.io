@@ -3,7 +3,6 @@
 
 :root {
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  --font-serif: Georgia, "Times New Roman", serif;
   --max-width: 1100px;
   --header-height: 60px;
 }
@@ -70,20 +69,6 @@ body {
 
 .site-nav a.active {
   background: var(--color-accent);
-}
-
-/* ── Feature hero ─────────────────────────────────────────── */
-.feature-hero {
-  height: 280px;
-  background-size: cover;
-  background-position: center;
-  position: relative;
-}
-
-.feature-overlay {
-  position: absolute;
-  inset: 0;
-  background: rgba(0,0,0,0.25);
 }
 
 /* ── Page layout ──────────────────────────────────────────── */
@@ -241,5 +226,4 @@ body {
     position: static;
   }
 
-  .feature-hero { height: 180px; }
 }

@@ -36,7 +36,7 @@ All content lives under `content/pages/` as Markdown files with Pelican metadata
 **Theme (`themes/`):**
 
 - `templates/base.html` — shared header/footer, nav, canonical link
-- `templates/index.html` — extends base; adds feature hero image and aside sidebar
+- `templates/index.html` — extends base; adds aside sidebar
 - `templates/page.html` — extends base; standard content page
 - `static/css/style.css` — layout/typography; no hardcoded colors
 - `static/css/theme-msu.css` / `static/css/theme-cerl.css` — color tokens per scheme
@@ -56,7 +56,7 @@ COLOR_SCHEME = "msu"   # MSU brand colors (Spartan Green)
 COLOR_SCHEME = "cerl"  # CERL logo colors (teal, grey, black)
 ```
 
-The value is baked into the `data-theme` attribute on `<html>` at build time — no JavaScript involved.
+The value is baked into the theme CSS filename at build time — no JavaScript involved.
 
 ## Pelican Page Metadata Format
 

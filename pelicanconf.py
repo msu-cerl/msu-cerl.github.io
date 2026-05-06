@@ -54,8 +54,8 @@ PLUGINS = ["pelican.plugins.sitemap"]
 
 SITEMAP = {
     "format": "xml",
-    "priorities": {"articles": 0.5, "indexes": 0.5, "pages": 0.8},
-    "changefreqs": {"articles": "monthly", "indexes": "daily", "pages": "monthly"},
+    "priorities": {"pages": 0.8},
+    "changefreqs": {"pages": "monthly"},
 }
 
 TYPOGRIFY = True
