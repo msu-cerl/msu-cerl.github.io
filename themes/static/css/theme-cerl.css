@@ -16,3 +16,21 @@
   --color-footer-border:  #0d2b36;
   --color-blockquote:     #3d9aac;
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-heading:        #9acfda;
+    --color-heading-border: #2e7a8c;
+    --color-accent:         #4db8cc;
+    --color-accent-hover:   #7dcfdd;
+    --color-body-bg:        #0d1b22;
+    --color-text:           #e2ecee;
+    --color-text-light:     #8faab2;
+    --color-border:         #1e404d;
+    --color-aside-bg:       #111f27;
+    --color-aside-border:   #2e7a8c;
+    --color-footer-bg:      #0a1419;
+    --color-footer-border:  #1e404d;
+    --color-blockquote:     #4db8cc;
+  }
+}
