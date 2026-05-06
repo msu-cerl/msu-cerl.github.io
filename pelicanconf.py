@@ -13,8 +13,6 @@ Send an email to <a href="mailto:dsilvia@msu.edu">dsilvia@msu.edu</a>.
 # Theme choice: "msu" or "cerl"
 COLOR_SCHEME = "cerl"
 
-FEATURE_IMAGE = "/assets/img/foggy_michigan.jpg"
-
 PATH = "content"
 PAGE_PATHS = ["pages"]
 ARTICLE_PATHS = []

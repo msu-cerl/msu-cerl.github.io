@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Is
 
-Pelican static site for the MSU Computing Education Research Lab, hosted on GitHub Pages at `msu-cerl.github.io`. The Python environment is managed with `uv`. Pushing to `main` triggers automatic GitHub Pages build and deploy.
+Pelican static site for the MSU Computing Education Research Lab, hosted on GitHub Pages at `msucerl.org`. The Python environment is managed with `uv`. Pushing to `main` triggers automatic GitHub Pages build and deploy.
 
 ## Local Development
 
@@ -22,11 +22,11 @@ uv run pelican content -s publishconf.py
 
 ## Site Architecture
 
-All content lives under `content/pages/` as Markdown files with Pelican metadata headers (plain `Key: Value` lines, no YAML fences). The custom theme is in `themes/cerl/`.
+All content lives under `content/pages/` as Markdown files with Pelican metadata headers (plain `Key: Value` lines, no YAML fences). The custom theme is in `themes/`.
 
 **Content pages:**
 
-- `content/pages/home.md` — homepage (uses `index.html` template with feature hero + aside)
+- `content/pages/home.md` — homepage (uses `index.html` template with aside sidebar)
 - `content/pages/people.md` — group roster (most commonly edited)
 - `content/pages/projects.md` — active research projects
 - `content/pages/pubs.md` — publications (**auto-generated; do not hand-edit**)
@@ -45,7 +45,7 @@ All content lives under `content/pages/` as Markdown files with Pelican metadata
 
 - `pelicanconf.py` — development config (no absolute URLs)
 - `publishconf.py` — production config (sets `SITEURL`, deletes output)
-- `MENUITEMS`, `SITE_DESCRIPTION`, `FEATURE_IMAGE`, and `COLOR_SCHEME` are all set in `pelicanconf.py`
+- `MENUITEMS`, `SITE_DESCRIPTION`, and `COLOR_SCHEME` are all set in `pelicanconf.py`
 
 ## Switching the Color Theme
 

@@ -52,7 +52,7 @@ def main() -> None:
         for ref in year_refs["Unknown"]:
             lines += [ref, ""]
 
-    OUTFILE.write_text("\n".join(lines))
+    OUTFILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Wrote {len(paragraphs)} references to {OUTFILE}")
 
 
