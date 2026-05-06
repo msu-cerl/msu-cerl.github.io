@@ -25,6 +25,10 @@
                 {% if (page.slug == 'home' and url == '/') or (page.slug != 'home' and '/' + page.slug + '/' == url) %}
                 class="active"
                 {% endif %}
+              {% elif article is defined and url == '/news/' %}
+              class="active"
+              {% elif output_file is defined and output_file == 'news/index.html' and url == '/news/' %}
+              class="active"
               {% endif %}
             >{{ label }}</a>
           </li>

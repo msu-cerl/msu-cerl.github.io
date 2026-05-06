@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} | {{ SITENAME }}{% endblock %}
+
+{% block body %}
+<main class="page-content typeset">
+  <h2 class="page-title">{{ article.title }}</h2>
+  <div class="article-meta">
+    <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+    {% if article.author %} · {{ article.author }}{% endif %}
+  </div>
+  {{ article.content }}
+  <p class="article-back"><a href="{{ SITEURL }}/news/">← News &amp; Perspectives</a></p>
+</main>
+{% endblock %}

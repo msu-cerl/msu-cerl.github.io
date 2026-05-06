@@ -15,7 +15,13 @@ COLOR_SCHEME = "cerl"
 
 PATH = "content"
 PAGE_PATHS = ["pages"]
-ARTICLE_PATHS = []
+ARTICLE_PATHS = ["posts"]
+ARTICLE_URL = "news/{date:%Y}/{slug}/"
+ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
+
+DIRECT_TEMPLATES = ["news"]
+NEWS_SAVE_AS = "news/index.html"
+
 STATIC_PATHS = ["assets/img"]
 
 TIMEZONE = "America/Detroit"
@@ -25,6 +31,7 @@ THEME = "themes"
 
 MENUITEMS = [
     ("Home", "/"),
+    ("News & Perspectives", "/news/"),
     ("People", "/people/"),
     ("Projects", "/projects/"),
     ("Curriculum Development", "/curriculumdev/"),
@@ -46,16 +53,19 @@ DEFAULT_PAGINATION = False
 # Suppress unused output
 ARCHIVES_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
+AUTHOR_SAVE_AS = ""
 CATEGORIES_SAVE_AS = ""
+CATEGORY_SAVE_AS = ""
 TAGS_SAVE_AS = ""
+TAG_SAVE_AS = ""
 INDEX_SAVE_AS = ""
 
 PLUGINS = ["pelican.plugins.sitemap"]
 
 SITEMAP = {
     "format": "xml",
-    "priorities": {"pages": 0.8},
-    "changefreqs": {"pages": "monthly"},
+    "priorities": {"articles": 0.6, "indexes": 0.6, "pages": 0.8},
+    "changefreqs": {"articles": "monthly", "indexes": "weekly", "pages": "monthly"},
 }
 
 TYPOGRIFY = True
