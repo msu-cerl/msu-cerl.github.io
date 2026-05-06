@@ -12,6 +12,8 @@ import pypandoc
 
 REPO = Path(__file__).parent.parent
 INFILE = REPO / "templates" / "pubs-template.md"
+BIBFILE = REPO / "content" / "assets" / "bib" / "group_publications.bib"
+CSLFILE = REPO / "templates" / "apa.csl"
 OUTFILE = REPO / "content" / "pages" / "pubs.md"
 
 
@@ -23,13 +25,14 @@ def extract_year(paragraph: str) -> str:
 
 
 def main() -> None:
-    # Pandoc reads bibliography/csl/nocite from the YAML frontmatter in INFILE.
-    # resource-path tells pandoc where to resolve the relative bib path.
-    # Without -s, output is body only (no metadata block).
     raw = pypandoc.convert_file(
         str(INFILE),
         "markdown_strict",
-        extra_args=["--citeproc", f"--resource-path={INFILE.parent}"],
+        extra_args=[
+            "--citeproc",
+            f"--bibliography={BIBFILE}",
+            f"--csl={CSLFILE}",
+        ],
     )
 
     paragraphs = [p.strip() for p in re.split(r"\n\n+", raw) if p.strip()]
