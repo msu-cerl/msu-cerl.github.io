@@ -25,6 +25,7 @@ html { font-size: 18px; scroll-behavior: smooth; }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; }
 }
 
 body {

@@ -4,12 +4,14 @@
 
 {% block body %}
 <main class="page-content typeset">
-  <h1 class="page-title">{{ article.title }}</h1>
-  <div class="article-meta">
-    <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
-    {% if article.author %} · {{ article.author }}{% endif %}
-  </div>
-  {{ article.content }}
+  <article>
+    <h1 class="page-title">{{ article.title }}</h1>
+    <div class="article-meta">
+      <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+      {% if article.author %} · {{ article.author }}{% endif %}
+    </div>
+    {{ article.content }}
+  </article>
   <p class="article-back"><a href="{{ SITEURL }}/news/">← News &amp; Perspectives</a></p>
 </main>
 {% endblock %}

@@ -15,7 +15,7 @@
         {% if article.author %} · {{ article.author }}{% endif %}
       </div>
       {% if article.summary %}<p class="news-item-summary">{{ article.summary }}</p>{% endif %}
-      <a class="news-item-more" href="{{ SITEURL }}/{{ article.url }}">Read the full post →</a>
+      <a class="news-item-more" href="{{ SITEURL }}/{{ article.url }}" aria-hidden="true" tabindex="-1">Read the full post →</a>
     </li>
     {% endfor %}
   </ul>
