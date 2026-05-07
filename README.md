@@ -23,7 +23,7 @@ uv sync
 Then start a live-reloading local server:
 
 ```bash
-uv run pelican --autoreload --listen
+uv run pelican --listen
 ```
 
 The site will be available at `http://localhost:8000`. Changes to content files are picked up automatically.
