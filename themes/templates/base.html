@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <link rel="icon" type="image/png" href="{{ SITEURL }}/assets/img/logo.png">
+  <link rel="apple-touch-icon" href="{{ SITEURL }}/assets/img/logo.png">
+  <meta name="theme-color" content="{% if COLOR_SCHEME == 'msu' %}#18453b{% else %}#0d2b36{% endif %}">
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/theme-{{ COLOR_SCHEME }}.css">
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css">
   {% if SITEURL %}
