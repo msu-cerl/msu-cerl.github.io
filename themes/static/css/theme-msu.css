@@ -2,6 +2,7 @@
 :root {
   --color-header-bg:      #18453b;
   --color-header-text:    #f0f0f0;
+  --color-nav-active:     #006810;
   --color-heading:        #18453b;
   --color-heading-border: #18453b;
   --color-accent:         #008208;

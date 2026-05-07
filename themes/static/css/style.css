@@ -93,7 +93,7 @@ body {
 }
 
 .site-nav a.active {
-  background: var(--color-accent);
+  background: var(--color-nav-active);
 }
 
 a:focus-visible,
