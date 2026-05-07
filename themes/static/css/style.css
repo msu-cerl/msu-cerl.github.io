@@ -168,7 +168,7 @@ button:focus-visible {
 }
 
 .aside-section a {
-  color: var(--color-accent);
+  color: var(--color-aside-link);
 }
 
 /* ── Typography (typeset) ─────────────────────────────────── */
@@ -187,8 +187,8 @@ button:focus-visible {
 
 .typeset p { margin-bottom: 1rem; }
 
-.typeset a { color: var(--color-accent); text-decoration: none; }
-.typeset a:hover { color: var(--color-accent-hover); text-decoration: underline; }
+.typeset a { color: var(--color-accent); text-decoration: underline; }
+.typeset a:hover { color: var(--color-accent-hover); }
 
 .typeset ul, .typeset ol {
   margin: 0.75rem 0 1rem 1.5rem;

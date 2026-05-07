@@ -3,6 +3,7 @@
   --color-header-bg:      #18453b;
   --color-header-text:    #f0f0f0;
   --color-nav-active:     #006810;
+  --color-aside-link:     #006810;
   --color-heading:        #18453b;
   --color-heading-border: #18453b;
   --color-accent:         #008208;
@@ -24,6 +25,7 @@
     --color-heading-border: #2d7a4f;
     --color-accent:         #3dc45a;
     --color-accent-hover:   #65d47a;
+    --color-aside-link:     #3dc45a;
     --color-body-bg:        #0a1a12;
     --color-text:           #e2ede5;
     --color-text-light:     #8aaa90;
