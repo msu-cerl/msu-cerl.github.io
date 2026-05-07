@@ -16,7 +16,7 @@ Rachel is an assistant professor in the Computational Education Research Lab (CE
 <img src="/assets/img/BrianOShea_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Brian O'Shea">
 Brian is a professor in the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu) and the [Department of Physics and Astronomy](https://pa.msu.edu). He is also a member of the [National Superconducting Cyclotron Laboratory](https://nscl.msu.edu/) and the current Director of MSU's [Institute for Cyber-Enabled Research](https://icer.msu.edu/). Prior to joining MSU, he received his PhD in physics from the [University of Illinois at Urbana-Champaign](https://physics.illinois.edu/) and was a postdoc at [Los Alamos National Laboratory](https://lanl.gov/) in the Theoretical Astrophysics Group and Applied Physics Division. His research interests include galaxy formation, turbulence, plasma physics, and computational science education. In his free time, he enjoys cooking, gardening, biking, and hiking. His website can be found [here](https://web.pa.msu.edu/people/osheabr/).
 
-#### [Devin Silvia](www.devinsilvia.com) (he/him)
+#### [Devin Silvia](https://www.devinsilvia.com) (he/him)
 <img src="/assets/img/DevinSilvia_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Devin Silvia">
 Devin is the Director of Undergraduate Studies and a teaching specialist in the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He received his PhD in [Astrophysical and Planetary Sciences](https://www.colorado.edu/aps/) from the [University of Colorado](https://www.colorado.edu) where he worked as a computational astrophysicist running simulations aimed at understanding various facets of chemical evolution in the universe. He then worked as a National Science Foundation Astronomy and Astrophysics postdoctoral fellow at MSU before joining the ranks of the CMSE faculty in 2017. In addition to his computational astrophysics research, Devin is passionate about STEM education and creating more equitable and inclusive STEM classrooms. When he's not working, he enjoys brewing beer, roasting coffee, and running all over the greater Lansing area.
 
@@ -67,7 +67,7 @@ Alex Reynolds is a graduate student in the [Physics Education Research Lab](http
 
 #### Kylee Sokacz (she/her)
 <img src="/assets/img/KyleeSokacz.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Kylee Sokacz">
-Kylee is an undergraduate student at Michigan State University, studying Mathematics and Data Science. She works as an Undergraduate Learning Assistant in CMSE 201 and conducts educational research under Rachel Frisbie, focusing on the interactions and utilization of AI in the CMSE 201 classroom. In her free time, Kylee enjoys playing piano, fostering cats, and spending time with her friends.
+Kylee is an undergraduate student at Michigan State University, studying Mathematics and Data Science. She works as an Undergraduate Learning Assistant in CMSE 201 and conducts educational research under Rachel Frisbie, focusing on the interactions and utilization of AI in the CMSE 201 classroom. In her free time, Kylee enjoys playing piano, fostering cats, and spending time with her friends.  
 
 ### External Collaborators
 

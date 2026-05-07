@@ -35,8 +35,8 @@ MENUITEMS = [
     ("People", "/people/"),
     ("Projects", "/projects/"),
     ("Curriculum Development", "/curriculumdev/"),
-    ("Publications", "/pubs/"),
     ("Outreach", "/outreach/"),
+    ("Publications", "/pubs/"),
 ]
 
 PAGE_URL = "{slug}/"
