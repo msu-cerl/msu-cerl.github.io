@@ -9,6 +9,20 @@
 
 html { font-size: 18px; scroll-behavior: smooth; }
 
+/* ── Skip link ────────────────────────────────────────────── */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  background: var(--color-header-bg);
+  color: var(--color-header-text);
+  padding: 0.5rem 1rem;
+  z-index: 200;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.skip-link:focus { top: 0; }
+
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
@@ -112,6 +126,7 @@ button:focus-visible {
   font-size: 1.75rem;
   font-weight: 700;
   color: var(--color-heading);
+  margin-top: 0;
   margin-bottom: 1.5rem;
   padding-bottom: 0.5rem;
   border-bottom: 3px solid var(--color-heading-border);
@@ -207,8 +222,8 @@ button:focus-visible {
   margin: 0.25rem 0 1rem 1.25rem;
 }
 
-/* Person blocks: clear floats after each h3/h4 section */
-.typeset h3, .typeset h4 { clear: both; }
+/* Person blocks: clear floats after each h2/h3/h4 section */
+.typeset h2, .typeset h3, .typeset h4 { clear: both; }
 
 /* ── Footer ───────────────────────────────────────────────── */
 .site-footer {

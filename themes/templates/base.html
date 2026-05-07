@@ -17,6 +17,7 @@
   {% endif %}
 </head>
 <body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
   <header class="site-header">
     <div class="header-inner">
       <a href="{{ SITEURL }}/" class="site-brand">
@@ -29,12 +30,12 @@
             <a href="{{ url }}"
               {% if page is defined and page.slug is defined %}
                 {% if (page.slug == 'home' and url == '/') or (page.slug != 'home' and '/' + page.slug + '/' == url) %}
-                class="active"
+                class="active" aria-current="page"
                 {% endif %}
               {% elif article is defined and url == '/news/' %}
-              class="active"
+              class="active" aria-current="page"
               {% elif output_file is defined and output_file == 'news/index.html' and url == '/news/' %}
-              class="active"
+              class="active" aria-current="page"
               {% endif %}
             >{{ label }}</a>
           </li>
@@ -46,7 +47,7 @@
 
   {% block feature %}{% endblock %}
 
-  <div class="page-wrap {% block layout_class %}{% endblock %}">
+  <div id="main-content" class="page-wrap {% block layout_class %}{% endblock %}">
     {% block body %}{% endblock %}
   </div>
 

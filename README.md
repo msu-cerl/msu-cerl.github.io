@@ -4,19 +4,13 @@ This is the website for the Computing Education Research Lab at Michigan State U
 
 ## Prerequisites
 
-Install `uv` if you don’t have it. Prefer a package manager or the official installation instructions:
-
-- Official docs: <https://docs.astral.sh/uv/getting-started/installation/>
-- Homebrew (macOS/Linux): `brew install uv`
-- pipx: `pipx install uv`
-
-If you choose to use the installer script, review it first and then run it:
+Install `uv` if you don’t have it:
 
 ```bash
-curl -LsSf https://astral.sh/uv/install.sh -o /tmp/uv-install.sh
-less /tmp/uv-install.sh
-sh /tmp/uv-install.sh
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
+
+Alternatively, `uv` can be installed via a package manager (e.g. `brew install uv` on macOS). See the [official installation docs](https://docs.astral.sh/uv/getting-started/installation/) for all options.
 
 ## Building the website locally
 
