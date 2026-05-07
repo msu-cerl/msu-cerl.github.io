@@ -11,7 +11,7 @@ Pelican static site for the MSU Computing Education Research Lab, hosted on GitH
 ```bash
 uv sync                                  # install / sync dependencies
 uv run pelican content -s pelicanconf.py # one-shot build → output/
-uv run pelican --listen                  # build + live-reload dev server
+uv run pelican --listen --autoreload     # build + live-reload dev server
 ```
 
 For a production build (sets `SITEURL`, deletes `output/` first):
