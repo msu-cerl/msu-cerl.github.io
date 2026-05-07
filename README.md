@@ -36,6 +36,22 @@ uv run pelican content -s pelicanconf.py
 
 Pushing to `main` triggers an automatic GitHub Pages build and deploy (takes a few minutes).
 
+## Adding a news post
+
+Create a new Markdown file in `content/posts/` with the following metadata at the top:
+
+```
+Title: Post Title Here
+Date: 2026-01-15
+Author: Firstname Lastname
+Slug: short-url-slug
+Summary: One or two sentences shown on the news index page.
+
+Full post content starts here...
+```
+
+The post will appear automatically at `/news/` in reverse chronological order. The URL will be `/news/{year}/{slug}/`.
+
 ## Updating publications
 
 Publications are generated from `content/assets/bib/group_publications.bib`. After adding new BibTeX entries, regenerate the publications page with:

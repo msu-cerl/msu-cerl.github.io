@@ -22,7 +22,7 @@ uv run pelican content -s publishconf.py
 
 ## Site Architecture
 
-All content lives under `content/pages/` as Markdown files with Pelican metadata headers (plain `Key: Value` lines, no YAML fences). The custom theme is in `themes/`.
+Static pages live under `content/pages/` and news posts under `content/posts/`, all as Markdown files with Pelican metadata headers (plain `Key: Value` lines, no YAML fences). The custom theme is in `themes/`.
 
 **Content pages:**
 
@@ -33,11 +33,17 @@ All content lives under `content/pages/` as Markdown files with Pelican metadata
 - `content/pages/curriculumdev.md` — curriculum development efforts
 - `content/pages/outreach.md` — outreach activities
 
+**News & Perspectives posts:**
+
+- `content/posts/` — one Markdown file per post; served at `/news/{year}/{slug}/`
+
 **Theme (`themes/`):**
 
 - `templates/base.html` — shared header/footer, nav, canonical link
 - `templates/index.html` — extends base; adds aside sidebar
 - `templates/page.html` — extends base; standard content page
+- `templates/news.html` — news index listing all posts
+- `templates/article.html` — individual post page
 - `static/css/style.css` — layout/typography; no hardcoded colors
 - `static/css/theme-msu.css` / `static/css/theme-cerl.css` — color tokens per scheme
 
@@ -87,6 +93,28 @@ Bio text here.
 ```
 
 Place headshot images in `content/assets/img/`. The `<img>` tag is optional — some members have no photo.
+
+## Writing News & Perspectives Posts
+
+Create a new Markdown file in `content/posts/`. The filename becomes the source file only — the URL is controlled by the `Slug` metadata field.
+
+```
+Title: Post Title Here
+Date: 2026-01-15
+Author: Firstname Lastname
+Slug: short-url-slug
+Summary: One or two sentences shown on the news index page.
+
+Full post content starts here...
+```
+
+- **Title** — displayed as the page heading and linked from the news index
+- **Date** — controls sort order and URL path (`/news/{year}/{slug}/`)
+- **Author** — optional; shown in the byline on the index and post page
+- **Slug** — required; determines the URL (use lowercase-with-hyphens)
+- **Summary** — optional but recommended; shown as the excerpt on `/news/`
+
+Posts are automatically listed at `/news/` in reverse chronological order. No other configuration is needed.
 
 ## Publications Workflow
 
