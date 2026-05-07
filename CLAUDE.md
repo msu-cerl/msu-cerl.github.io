@@ -55,7 +55,7 @@ Static pages live under `content/pages/` and news posts under `content/posts/`, 
 
 ## Switching the Color Theme
 
-Set `COLOR_SCHEME` in `pelicanconf.py` (and `publishconf.py` if deploying) before building:
+Set `COLOR_SCHEME` in `pelicanconf.py` before building (no need to touch `publishconf.py` — it inherits the value via `from pelicanconf import *`):
 
 ```python
 COLOR_SCHEME = "msu"   # MSU brand colors (Spartan Green)
