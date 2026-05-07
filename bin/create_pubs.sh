@@ -3,7 +3,7 @@
 # Set output file
 TEMPLATE="../templates/yaml-metadata.template"
 INFILE="../templates/pubs-template.md"
-OUTFILE="../pubs.md"
+OUTFILE="../content/pages/pubs.md"
 
 # Run pandoc
 pandoc -t markdown_strict --citeproc -s --template="$TEMPLATE" -i "$INFILE" -o "$OUTFILE"
@@ -11,12 +11,11 @@ pandoc -t markdown_strict --citeproc -s --template="$TEMPLATE" -i "$INFILE" -o "
 # Get today's date in YYYY-MM-DD format
 TODAY=$(date +%F)
 
-# Create new front matter
+# Create new front matter (Pelican metadata format)
 cat <<EOF > frontmatter.tmp
----
-layout: page
-title: CERL Publications
----
+Title: CERL Publications
+Slug: pubs
+
 EOF
 
 # Remove existing YAML front matter from pubs.md

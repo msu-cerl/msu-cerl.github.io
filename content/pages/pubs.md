@@ -1,7 +1,6 @@
----
-layout: page
-title: CERL Publications
----
+Title: CERL Publications
+Slug: pubs
+
 ## 2025
 
 Bolger, E., Nwobi, M., & Caballero, M. D. (2025). Characterizing Faculty
@@ -211,4 +210,3 @@ Caballero, M. D., & Merner, L. (2018). Prevalence and nature of
 computational instruction in undergraduate physics programs across the
 United States. *Physical Review Physics Education Research*, *14*(2),
 020129. <https://doi.org/10.1103/PhysRevPhysEducRes.14.020129>
-
