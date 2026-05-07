@@ -53,6 +53,10 @@ Static pages live under `content/pages/` and news posts under `content/posts/`, 
 - `publishconf.py` — production config (sets `SITEURL`, deletes output)
 - `MENUITEMS`, `SITE_DESCRIPTION`, and `COLOR_SCHEME` are all set in `pelicanconf.py`
 
+**Static files:**
+
+`STATIC_PATHS = ["assets"]` in `pelicanconf.py` tells Pelican to copy the entire `content/assets/` directory to `output/assets/`. Any images, PDFs, or other files placed under `content/assets/` will be served. Files outside that directory will not be included in the build.
+
 ## Switching the Color Theme
 
 Set `COLOR_SCHEME` in `pelicanconf.py` before building (no need to touch `publishconf.py` — it inherits the value via `from pelicanconf import *`):
@@ -115,6 +119,10 @@ Full post content starts here...
 - **Summary** — optional but recommended; shown as the excerpt on `/news/`
 
 Posts are automatically listed at `/news/` in reverse chronological order. No other configuration is needed.
+
+## Typogrify
+
+`TYPOGRIFY = True` is set in `pelicanconf.py`. Typogrify post-processes rendered HTML to improve typography (smart quotes, em-dashes, ampersand styling, etc.). This is generally transparent but has one known gotcha: **it will mangle double-quoted HTML attributes** if the attribute value contains characters it interprets as quotation marks. Avoid interpolating Pelican variables directly into double-quoted HTML attributes in templates — use `aria-hidden`, `tabindex`, or other attribute-based approaches instead of `aria-label` when the value contains dynamic text.
 
 ## Publications Workflow
 

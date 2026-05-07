@@ -279,13 +279,12 @@ button:focus-visible {
   font-size: 1.2rem;
   font-weight: 700;
   color: var(--color-accent);
-  text-decoration: none;
+  text-decoration: underline;
   margin-bottom: 0.25rem;
 }
 
 .news-item-title:hover {
   color: var(--color-accent-hover);
-  text-decoration: underline;
 }
 
 .news-item-meta {

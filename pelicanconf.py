@@ -22,7 +22,7 @@ ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
 DIRECT_TEMPLATES = ["news"]
 NEWS_SAVE_AS = "news/index.html"
 
-STATIC_PATHS = ["assets/img"]
+STATIC_PATHS = ["assets"]
 
 TIMEZONE = "America/Detroit"
 DEFAULT_LANG = "en"
