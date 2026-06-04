@@ -7,7 +7,7 @@
   --header-height: 60px;
 }
 
-html { font-size: 18px; scroll-behavior: smooth; }
+html { font-size: 18px; scroll-behavior: smooth; scroll-padding-top: calc(var(--header-height) + 1rem); }
 
 /* ── Skip link ────────────────────────────────────────────── */
 .skip-link {
@@ -311,6 +311,61 @@ button:focus-visible {
     position: static;
     order: -1;
   }
+}
+
+/* ── Tables ───────────────────────────────────────────────── */
+.typeset table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.typeset thead tr {
+  background: var(--color-header-bg);
+  color: var(--color-header-text);
+}
+
+.typeset thead th {
+  padding: 0.7rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  border-right: 1px solid rgba(255,255,255,0.15);
+}
+
+.typeset thead th:last-child { border-right: none; }
+
+.typeset tbody tr {
+  border-top: 1px solid var(--color-border);
+}
+
+.typeset tbody tr:nth-child(even) {
+  background: var(--color-aside-bg);
+}
+
+.typeset tbody tr:hover {
+  background: var(--color-aside-bg);
+  filter: brightness(0.97);
+}
+
+.typeset td,
+.typeset tbody th {
+  padding: 0.65rem 1rem;
+  vertical-align: top;
+  border-right: 1px solid var(--color-border);
+  font-weight: normal;
+}
+
+.typeset td:last-child,
+.typeset tbody th:last-child { border-right: none; }
+
+@media (max-width: 640px) {
+  .typeset table { font-size: 0.85rem; }
+  .typeset th, .typeset td { padding: 0.5rem 0.6rem; }
 }
 
 /* ── News list ────────────────────────────────────────────── */

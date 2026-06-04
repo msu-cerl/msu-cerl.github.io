@@ -60,7 +60,8 @@ TAGS_SAVE_AS = ""
 TAG_SAVE_AS = ""
 INDEX_SAVE_AS = ""
 
-PLUGINS = ["pelican.plugins.sitemap"]
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["pelican.plugins.sitemap", "accessible_tables"]
 
 SITEMAP = {
     "format": "xml",
@@ -69,3 +70,19 @@ SITEMAP = {
 }
 
 TYPOGRIFY = True
+
+MARKDOWN = {
+    "extensions": [
+        "markdown.extensions.toc",
+        "markdown.extensions.tables",
+        "markdown.extensions.fenced_code",
+        "markdown.extensions.footnotes",
+        "markdown.extensions.abbr",
+    ],
+    "extension_configs": {
+        "markdown.extensions.toc": {
+            "anchorlink": False,
+        },
+    },
+    "output_format": "html5",
+}
