@@ -1,6 +1,6 @@
 Title: CMSE Curriculum Development Sprint 2026
 Slug: cmse-sprint-2026
-Relocate_footnotes: true
+Event_page: true
 
 **Jump to:** [Overview](#overview) · [Schedule](#schedule) · [Session Details](#session-details)
 
@@ -54,7 +54,7 @@ _"PD" indicates sessions with dedicated professional development content._
 
 *Monday, June 8 · 10:00--11:30 am*
 
-Details and resources to come.
+We will review the key themes and insights from the focus group discussions, and use these to identify specific projects for development during the sprint. This will include brainstorming potential improvements to our curriculum, as well as forming teams around shared interests and goals.
 
 ---
 
@@ -63,7 +63,7 @@ Details and resources to come.
 
 *Monday, June 8 · 12:30--2:00 pm*
 
-Details and resources to come.
+We will explore the principles of backward design and how it can be used when engaging in curriculum development. We will also discuss best practices for designing assessments and provide actionable feedback.
 
 ---
 
@@ -72,7 +72,7 @@ Details and resources to come.
 
 *Monday, June 8 · 2:30--4:00 pm*
 
-Details and resources to come.
+We will apply the principles of backward design to our identified projects. This will involve defining clear learning outcomes, determining appropriate assessments, and planning instructional activities that align with these outcomes.
 
 ---
 
@@ -81,7 +81,7 @@ Details and resources to come.
 
 *Tuesday, June 9 · 10:00--11:30 am*
 
-Details and resources to come.
+Sprint teams will have the opportunity to work together on their projects using their backward design plans as a guide. This will be a time for collaboration, brainstorming, and problem-solving as teams begin to develop their materials and approaches.
 
 ---
 
@@ -90,7 +90,7 @@ Details and resources to come.
 
 *Tuesday, June 9 · 2:30--4:00 pm*
 
-Details and resources to come.
+**This is a tentative session plan.** We will discuss the principles of Universal Design for Learning (UDL) and how they can be applied to create more inclusive and accessible curriculum materials. This session will provide practical strategies for designing materials that meet the needs of all learners.
 
 ---
 
@@ -99,7 +99,7 @@ Details and resources to come.
 
 *Wednesday, June 10 · 10:00--11:30 am*
 
-Details and resources to come.
+Sprint teams will have the opportunity to share updates on their projects, receive feedback from peers, and continue working together. This session will be a time for reflection on progress, troubleshooting challenges, and refining project plans.
 
 ---
 
@@ -108,7 +108,7 @@ Details and resources to come.
 
 *Friday, June 12 · 10:00--11:30 am*
 
-Details and resources to come.
+**This is a tentative session plan.** We will identify small-scale projects that came up during the first session that could be completed in a short amount of time, and work together to complete them. This will be a time for quick wins as we wrap up the sprint.
 
 ---
 
@@ -117,7 +117,7 @@ Details and resources to come.
 
 *Friday, June 12 · 12:30--2:00 pm*
 
-Details and resources to come.
+Sprint teams will share their projects with the larger group, providing an opportunity for feedback and discussion. We will also discuss next steps for continuing this work beyond the sprint, including making plans to continue this work through the summer. We will also discuss how to document and share the work that was done during the sprint with the broader CMSE community.
 
 ---
 
@@ -126,7 +126,7 @@ Details and resources to come.
 
 *Friday, June 12 · 2:30--4:00 pm*
 
-Details and resources to come.
+This will be an opportunity for any final project work and check-ins between sprint leads and facilitators, if needed.
 
 ---
 
