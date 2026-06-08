@@ -58,6 +58,8 @@ We will review the key themes and insights from the focus group discussions, and
 
 [Shared summary and brainstorm document](https://docs.google.com/document/d/19qc4ynaMsyxfDiZb79j_IQJCQNZlAOHmFMS-_S12iLE/edit?usp=sharing) from the focus group discussions will be available for reference during this session.
 
+Welcome and Project Kickoff slides: [View HTML](/assets/slides/sprint2026/CMSESprint2026-Kickoff.html) or [Download PDF](/assets/slides/sprint2026/CMSESprint2026-Kickoff.pdf)    
+
 ---
 
 ### Session 2
