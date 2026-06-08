@@ -69,7 +69,7 @@ Welcome and Project Kickoff slides: [View HTML](/assets/slides/sprint2026/CMSESp
 
 We will explore the principles of backward design and how it can be used when engaging in curriculum development. We will also discuss best practices for designing assessments and provide actionable feedback.
 
-<!-- Backward Design slides: [View HTML](/assets/slides/sprint2026/CMSESprint2026-BackwardDesign.html) or [Download PDF](/assets/slides/sprint2026/CMSESprint2026-BackwardDesign.pdf) -->
+Backward Design slides: [View HTML](/assets/slides/sprint2026/CMSESprint2026-BackwardDesign.html) or [Download PDF](/assets/slides/sprint2026/CMSESprint2026-BackwardDesign.pdf)
 
 ---
 
