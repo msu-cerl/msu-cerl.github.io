@@ -56,6 +56,8 @@ _"PD" indicates sessions with dedicated professional development content._
 
 We will review the key themes and insights from the focus group discussions, and use these to identify specific projects for development during the sprint. This will include brainstorming potential improvements to our curriculum, as well as forming teams around shared interests and goals.
 
+[Shared summary and brainstorm document](https://docs.google.com/document/d/19qc4ynaMsyxfDiZb79j_IQJCQNZlAOHmFMS-_S12iLE/edit?usp=sharing) from the focus group discussions will be available for reference during this session.
+
 ---
 
 ### Session 2
@@ -64,6 +66,8 @@ We will review the key themes and insights from the focus group discussions, and
 *Monday, June 8 · 12:30--2:00 pm*
 
 We will explore the principles of backward design and how it can be used when engaging in curriculum development. We will also discuss best practices for designing assessments and provide actionable feedback.
+
+<!-- Backward Design slides: [View HTML](/assets/slides/sprint2026/CMSESprint2026-BackwardDesign.html) or [Download PDF](/assets/slides/sprint2026/CMSESprint2026-BackwardDesign.pdf) -->
 
 ---
 
