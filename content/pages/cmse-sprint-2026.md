@@ -96,7 +96,9 @@ Sprint teams will have the opportunity to work together on their projects using 
 
 *Tuesday, June 9 · 2:30--4:00 pm*
 
-**This is a tentative session plan.** We will discuss the principles of Universal Design for Learning (UDL) and how they can be applied to create more inclusive and accessible curriculum materials. This session will provide practical strategies for designing materials that meet the needs of all learners.
+We will discuss the principles of Universal Design for Learning (UDL) and how they can be applied to create more inclusive and accessible materials. This session will provide practical strategies for designing materials that meet the needs of all learners.
+
+Shared Google Drive folder with resources related to UDL and accessibility: [View Folder](https://drive.google.com/drive/folders/1ahfjkbr_TlGs_WeHd9kB1RbYBNLJkucK?usp=sharing)
 
 ---
 
