@@ -38,10 +38,10 @@ _"PD" indicates sessions with dedicated professional development content._
 | Day | 10:00--11:30 am | 12:30--2:00 pm | 2:30--4:00 pm |
 |:----|-----------------|----------------|---------------|
 | **Monday, June 8** | [Session 1](#session-1): Focus Group Summary and Project Identification | [Session 2](#session-2): Backward design and Assessment (PD) | [Session 3](#session-3): Using backward design to guide project planning |
-| **Tuesday, June 9** | [Session 4](#session-4): Sprint Team Co-working | Free time | [Session 5](#session-5): Universal Design for Learning and Accessibility (PD) |
+| **Tuesday, June 9** | [Session 4](#session-4): Sprint Team Co-working | Free time | [Session 5](#session-5): Universal Design for Learning and Accessibility (PD) - _Rescheduled for Friday morning_ |
 | **Wednesday, June 10** | [Session 6](#session-6): Sprint Team Update/Check-in + Co-work | Asynchronous development or in-person co-work[^async] | Asynchronous development or in-person co-work[^async] |
 | **Thursday, June 11** | Asynchronous development or in-person co-work[^async] | Asynchronous development or in-person co-work[^async] | Asynchronous development or in-person co-work[^async] |
-| **Friday, June 12** | [Session 7](#session-7): Mini-project hack session | [Session 8](#session-8): Project Share-outs and Next Steps | [Session 9](#session-9): Final Wrap-up and check-ins, as needed |
+| **Friday, June 12** | [Session 5](#session-5): Universal Design for Learning and Accessibility (PD) <!-- [Session 7](#session-7): Mini-project hack session --> | [Session 8](#session-8): Project Share-outs and Next Steps | [Session 9](#session-9): Final Wrap-up and check-ins, as needed |
 
 [^async]: For these session blocks, sprint teams will have the option to meet synchronously for co-working or check-in, or to work asynchronously on their projects. This is intended to provide flexibility for participants who may have other commitments during that time. As this work progresses, please report your efforts via this [progress reporting form](https://forms.office.com/r/Kjpj5uurW1).
 
@@ -90,18 +90,6 @@ We will apply the principles of backward design to our identified projects. This
 Sprint teams will have the opportunity to work together on their projects using their backward design plans as a guide. This will be a time for collaboration, brainstorming, and problem-solving as teams begin to develop their materials and approaches.
 
 ---
-
-### Session 5
-#### Universal Design for Learning and Accessibility (PD)
-
-*Tuesday, June 9 · 2:30--4:00 pm*
-
-We will discuss the principles of Universal Design for Learning (UDL) and how they can be applied to create more inclusive and accessible materials. This session will provide practical strategies for designing materials that meet the needs of all learners.
-
-Shared Google Drive folder with resources related to UDL and accessibility: [View Folder](https://drive.google.com/drive/folders/1ahfjkbr_TlGs_WeHd9kB1RbYBNLJkucK?usp=sharing)
-
----
-
 ### Session 6
 #### Sprint Team Update/Check-in + Co-work
 
@@ -111,6 +99,18 @@ Sprint teams will have the opportunity to share updates on their projects, recei
 
 ---
 
+### Session 5
+#### Universal Design for Learning and Accessibility (PD)
+
+*Friday, June 12 · 10:00--11:30 am*  
+(Rescheduled from original time of *Tuesday, June 9 · 2:30--4:00 pm*)
+
+We will discuss the principles of Universal Design for Learning (UDL) and how they can be applied to create more inclusive and accessible materials. This session will provide practical strategies for designing materials that meet the needs of all learners.
+
+Shared Google Drive folder with resources related to UDL and accessibility: [View Folder](https://drive.google.com/drive/folders/1ahfjkbr_TlGs_WeHd9kB1RbYBNLJkucK?usp=sharing)
+
+---
+<!--
 ### Session 7
 #### Mini-project hack session
 
@@ -119,8 +119,9 @@ Sprint teams will have the opportunity to share updates on their projects, recei
 **This is a tentative session plan.** We will identify small-scale projects that came up during the first session that could be completed in a short amount of time, and work together to complete them. This will be a time for quick wins as we wrap up the sprint.
 
 ---
+-->
 
-### Session 8
+### Session 7
 #### Project Share-outs and Next Steps
 
 *Friday, June 12 · 12:30--2:00 pm*
@@ -129,7 +130,7 @@ Sprint teams will share their projects with the larger group, providing an oppor
 
 ---
 
-### Session 9
+### Session 8
 #### Final Wrap-up and check-ins, as needed
 
 *Friday, June 12 · 2:30--4:00 pm*
