@@ -71,6 +71,8 @@ We will explore the principles of backward design and how it can be used when en
 
 Backward Design slides: [View HTML](/assets/slides/sprint2026/CMSESprint2026-BackwardDesign.html) or [Download PDF](/assets/slides/sprint2026/CMSESprint2026-BackwardDesign.pdf)
 
+Creating Actionable Feedback slides: [Download PDF](https://drive.google.com/file/d/1geH8G9e2yHkdMPY0kOsU15f4rqcqnlwF/view)
+
 ---
 
 ### Session 3
@@ -79,6 +81,8 @@ Backward Design slides: [View HTML](/assets/slides/sprint2026/CMSESprint2026-Bac
 *Monday, June 8 · 2:30--4:00 pm*
 
 We will apply the principles of backward design to our identified projects. This will involve defining clear learning outcomes, determining appropriate assessments, and planning instructional activities that align with these outcomes.
+
+Worksheet for applying backward design to project planning: [View Worksheet](https://docs.google.com/document/d/1B2A-ej9x356Al7wmdN_Ox6Un2mvpY8sYcU9_6naX64Y/edit?usp=sharing)
 
 ---
 
@@ -127,6 +131,8 @@ Shared Google Drive folder with resources related to UDL and accessibility: [Vie
 *Friday, June 12 · 12:30--2:00 pm*
 
 Sprint teams will share their projects with the larger group, providing an opportunity for feedback and discussion. We will also discuss next steps for continuing this work beyond the sprint, including making plans to continue this work through the summer. We will also discuss how to document and share the work that was done during the sprint with the broader CMSE community.
+
+Details for share-out presentations are available in this [shared document](https://docs.google.com/document/d/1cU4-AMkrerb5lF4VgMTV71WgPGdlpPfSFwPOiyK25NU/edit?usp=sharing).
 
 ---
 
