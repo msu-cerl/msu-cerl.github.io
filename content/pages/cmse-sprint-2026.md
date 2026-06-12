@@ -29,6 +29,19 @@ Questions? Reach out to [Devin Silvia](mailto:dsilvia@msu.edu) or [Sona Chitchya
 
 ---
 
+## Sprint Project Teams, Workspaces, and Communication
+
+Each project team has a dedicated workspace for collaboration. These workspaces will be used to share resources, track progress, and coordinate efforts throughout the sprint.
+
+You can find your corresponding workspace here (you will only have access to the one you are a member of):  
+- [CMSE 201 Content Clean-up](https://drive.google.com/drive/folders/1PC8fm0wbNdMa5v3hVfHf3GTjUlHcktSB?usp=drive_link)  
+- [Community-driven AI Guidelines](https://drive.google.com/drive/folders/1SOh7cw7o2QwW7xQp_7Ls71wbhStMOmzZ?usp=drive_link)  
+- [Out-of-classroom Support and Student Belonging](https://drive.google.com/drive/folders/1W6X02lf77kOyqw7mwmkB-yEb7mBMoKY6?usp=drive_link)  
+
+We also have a Slack team for real-time communication and collaboration, [cmse-sprint.slack.com](https://cmse-sprint.slack.com). Contact Devin or Sona for access.
+
+---
+
 ## Schedule
 
 Sessions run Monday through Friday, June 8--12. Times are Eastern.
