@@ -2,7 +2,7 @@ Title: CMSE Curriculum Development Sprint 2026
 Slug: cmse-sprint-2026
 Event_page: true
 
-**Jump to:** [Overview](#overview) · [Schedule](#schedule) · [Session Details](#session-details)
+**Jump to:** [Overview](#overview) · [Schedule](#schedule) · [Session Details](#session-details) · [Outcomes](#outcomes)
 
 ---
 
@@ -155,6 +155,39 @@ Details for share-out presentations are available in this [shared document](http
 *Friday, June 12 · 2:30--4:00 pm*
 
 This will be an opportunity for any final project work and check-ins between sprint leads and facilitators, if needed.
+
+---
+
+## Outcomes
+
+The following projects were developed during the sprint. Each team presented their work at the showcase event on August 18, 2026. Presentation slides and supplementary material (as provided) are linked below.
+
+### CMSE 201 Content Refresh
+
+Presentation slides: *Coming soon*
+<!-- Presentation slides: [View HTML](/assets/slides/sprint2026/CMSE201-ContentCleanup.html) or [Download PDF](/assets/slides/sprint2026/CMSE201-ContentCleanup.pdf) -->
+
+<!-- Supplementary materials: *Coming soon* -->
+<!-- Supplementary materials: [View Materials](#) -->
+
+---
+
+### Community-driven AI Guidelines
+
+Presentation slides: *Coming soon*
+<!-- Presentation slides: [View HTML](/assets/slides/sprint2026/AI-Guidelines.html) or [Download PDF](/assets/slides/sprint2026/AI-Guidelines.pdf) -->
+
+Supplementary materials: [Generative AI Guidelines Drafts](https://go.devinsilvia.com/genAI-guidelines) -- community feedback is welcome!
+
+---
+
+### Out-of-classroom Support and Student Belonging
+
+Presentation slides: *Coming soon*
+<!-- Presentation slides: [View HTML](/assets/slides/sprint2026/StudentBelonging.html) or [Download PDF](/assets/slides/sprint2026/StudentBelonging.pdf) -->
+
+<!-- Supplementary materials: *Coming soon* -->
+<!-- Supplementary materials: [View Materials](#) -->
 
 ---
 
