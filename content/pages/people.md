@@ -35,17 +35,9 @@ Aman Yadav is the Lappan-Phillips Professor of Computing Education in the Colleg
 <img src="/assets/img/justin_gambrell_headshot.jpeg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Justin Gambrell">
 Justin is a fixed-term assistant professor in CMSE and is a member of CERL. Justin earned his Bachelor's degree in Physics from Michigan State University along with a minor in Mathematics in 2018. In 2024 he earned his PhD in Physics from Drexel University specializing in Physics Education Research. Justin is currently teaching CMSE 201 and 202. His research has focused on assessment development of computational thinking in introductory physics. Justin's current research interests are in expanding assessment development in terms of exploring student affect, and examining differences in computational thinking based on the computational environment used. In his free time he enjoys playing video games, catching up on a massive watch list, and propagating house plants.
 
-### Emily Bolger (she/her)
-<img src="/assets/img/EmilyBolger_headshot3.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Emily Bolger">
-Emily is a PhD student in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor's degree in Mathematics from Moravian College. Her current research uses computational tools, specifically Social Network Analysis and Natural Language Processing, to analyze education-related data. Her most recent project involves using Natural Language Processing to analyze literature published on change strategies for improving undergraduate STEM instruction. The project is multi-method synthesis in collaboration with four other research institutions. In addition to research, she has been a Teaching Assistant for CMSE 201 and CMSE 381. In her free time, she enjoys reading, crocheting, and dancing. Her website can be found [here](https://egbolger.github.io/).
-
 ### Sona Chitchyan (she/they)
 <img src="/assets/img/Sona_headshot.JPG" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Sona Chitchyan">
 Sona is a PhD student at CMSE working in CERL, focusing on studying the process of teaching computation in the context of astrophysics. In 2024-2025, Sona created an interactive homework assignment for CMSE 202, exploring how usage of astronomy context in agent-based modeling affects student learning. Currently, Sona is working on Feedback Engagement and Analysis in the asSessmenTs (FEAST) project, exploring what actionable feedback looks like in an introductory computing course and how the process of providing feedback can be improved. They enjoy playing racquetball, researching coffee, baking bread, and watching TV shows in their free time. Sona is also interested in contributing to open-source codes in astrophysics.
-
-### Ishita
-<img src="/assets/img/IMG_0221.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Ishita">
-Ishita is an undergraduate student at Michigan State University, majoring in Computational Data Science and Statistics. She is involved in educational research under Rachel Roca, focusing on student identity in data science classrooms. In her free time, Ishita enjoys reading books, playing chess and taking piano lessons.
 
 ### [Dawson Kinsman](https://dawson-kinsman.netlify.app) (she/her)
 
@@ -59,9 +51,6 @@ Anthony is an undergraduate student at Michigan State University, studying Compu
 <img src="/assets/img/CassieHeadshotCats.jpeg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Cassie Lem">
 Cassie is a PhD student in CMSE. She earned a B.S. in applied math from UC Santa Barbara in 2021. Cassie is currently working on a project studying the impacts of course transformations on undergraduate students in NatSci departments. She has previously been a graduate assistant with [Knowledge Commons](https://hcommons.org/) at MSU. In her free time, Cassie enjoys reading, swing dancing, playing board/card games, and spending time with friends and family.
 
-### Maddy Nomer (she/her)
-Maddy is currently a masters student in the MSDS program. She earned her bachelor's degree in Psychology with a minor in Social Science Quantitative Data Analysis. Throughout her time at MSU, Maddy has worked as an undergraduate learning assistant and a teaching assistant for CMSE 201. Prior to joining CERL, Maddy's research focused on sleep, specifically how melatonin impacted sleep and cognition in healthy young adults. In her free time, Maddy enjoys playing with her cat and reading.
-
 ### Alex Reynolds (she/they)
 <img src="/assets/img/AlexReynolds.png" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Alex Reynolds">
 Alex Reynolds is a graduate student in the [Physics Education Research Lab](https://perl.natsci.msu.edu) and CERL, and their current research interests are around supporting integration of a variation in computing practices in the physics classroom through the PICUP project. They also research accessibility in physics spaces, including experiences of students with ADHD in physics group work. In the past, they have researched student's mathematical reasoning in online labs and developed curriculum around teaching coding in physics labs. Alex received a Bachelor's in Comprehensive and Teaching Physics in 2023 from the University of Washington and taught high school conceptual and AP physics before coming to graduate school at MSU. In their free time, Alex participates in many yarn-based crafts, plays board games and TTRPGs, and hikes.
@@ -74,6 +63,9 @@ Alex Reynolds is a graduate student in the [Physics Education Research Lab](http
 <img src="/assets/img/KyleeSokacz.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Kylee Sokacz">
 Kylee is an undergraduate student at Michigan State University, studying Mathematics and Data Science. She works as an Undergraduate Learning Assistant in CMSE 201 and conducts educational research under Rachel Frisbie, focusing on the interactions and utilization of AI in the CMSE 201 classroom. In her free time, Kylee enjoys playing piano, fostering cats, and spending time with her friends.  
 
+### Kyla Hotton (they/them)
+Kyla is a PhD student in CMSE. They earned a B.S. in data science and a B.S. in physics from Michigan State in 2024. They are currently researching undergraduate student’s usage and perception of generative AI tools regarding their upper-level computational courses through semi-structured interviews. Kyla is also a part of the team working on the Ethical Foundations of AI through Historical Context project. In their free time Kyla enjoys fostering cats, swing dancing, and playing board games with friends.
+
 ## External Collaborators
 
 ### Tor Ole Odden (he/him)
@@ -81,6 +73,17 @@ Kylee is an undergraduate student at Michigan State University, studying Mathema
 Tor is a postdoc at the [University of Oslo, Norway](https://www.uio.no/english/), where he studies how computation can be used to improve physics teaching and how machine learning methods can be applied to science education research. He holds a bachelor's degree in physics from [St. Olaf College](https://wp.stolaf.edu/), a master's in physics from the [University of Wisconsin-Madison](https://www.wisc.edu/), and a PhD in physics education also from the University of Wisconsin-Madison. In his spare time Tor is an active fiddle player, cross-country skier, wood-carver, and graphic novel enthusiast.
 
 ## CERL Squirrel Alumni!
+
+### Emily Bolger (she/her)
+<img src="/assets/img/EmilyBolger_headshot3.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Emily Bolger">
+Emily recently earned her PhD in the Computational Mathematics, Science and Engineering (CMSE) Department. She earned her bachelor's degree in Mathematics from Moravian College. Her current research uses computational tools, specifically Social Network Analysis and Natural Language Processing, to analyze education-related data. Her most recent project involves using Natural Language Processing to analyze literature published on change strategies for improving undergraduate STEM instruction. The project is multi-method synthesis in collaboration with four other research institutions. In addition to research, she has been a Teaching Assistant for CMSE 201 and CMSE 381. In her free time, she enjoys reading, crocheting, and dancing. Her website can be found [here](https://egbolger.github.io/).
+
+### Maddy Nomer (she/her)
+Maddy was a masters student in the MSDS program. She earned her bachelor's degree in Psychology with a minor in Social Science Quantitative Data Analysis. Throughout her time at MSU, Maddy has worked as an undergraduate learning assistant and a teaching assistant for CMSE 201. Prior to joining CERL, Maddy's research focused on sleep, specifically how melatonin impacted sleep and cognition in healthy young adults. In her free time, Maddy enjoys playing with her cat and reading.
+
+### Ishita
+<img src="/assets/img/IMG_0221.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Ishita">
+Ishita is an undergraduate student at Michigan State University, majoring in Computational Data Science and Statistics. She is involved in educational research under Rachel Roca, focusing on student identity in data science classrooms. In her free time, Ishita enjoys reading books, playing chess and taking piano lessons.
 
 ### [Alia Valentine](https://valentine-alia.github.io/) (she/her)
 <img src="/assets/img/alia.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Alia Valentine">
