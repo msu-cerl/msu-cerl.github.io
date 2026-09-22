@@ -61,7 +61,7 @@ Alex Reynolds is a graduate student in the [Physics Education Research Lab](http
 
 ### Kylee Sokacz (she/her)
 <img src="/assets/img/KyleeSokacz.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Kylee Sokacz">
-Kylee is an undergraduate student at Michigan State University, studying Mathematics and Data Science. She works as an Undergraduate Learning Assistant in CMSE 201 and conducts educational research under Rachel Frisbie, focusing on the interactions and utilization of AI in the CMSE 201 classroom. In her free time, Kylee enjoys playing piano, fostering cats, and spending time with her friends.  
+Kylee is a PhD student in CMSE working in both CERL and JetLab. She received her undergraduate degree in Mathematics with a minor in Data Science from Michigan State University in 2026. As an undergrad, she did research with CERL and was an Undergraduate Learning Assistant for CMSE 201. She is interested in working to harness artificial intelligence to benefit K-12 students and support teaching staff. In her free time, Kylee enjoys crocheting, cooking, playing piano, and fostering cats!
 
 ### Kyla Hotton (they/them)
 Kyla is a PhD student in CMSE. They earned a B.S. in data science and a B.S. in physics from Michigan State in 2024. They are currently researching undergraduate student’s usage and perception of generative AI tools regarding their upper-level computational courses through semi-structured interviews. Kyla is also a part of the team working on the Ethical Foundations of AI through Historical Context project. In their free time Kyla enjoys fostering cats, swing dancing, and playing board games with friends.
