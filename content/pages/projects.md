@@ -3,6 +3,9 @@ Slug: projects
 
 ## Current Projects
 
+### Evaluating the Impact of MiSTEM Regional Allocation Grants on Student Outcomes: A Longitudinal Study
+#### Folks Involved: D. Kinsman (lead), D. Caballero
+This study investigates postsecondary STEM readiness - a collection of markers traditionally used to determine the preparedness of students for higher education in STEM. Through complementary modeling analyses that offer comparative and regional lenses, we will be able to unpack the state of Michigan’s progress towards greater and deeper college readiness for all students. The first project applies regression-corrected streamline modeling to longitudinal standardized assessment data to characterize regional variation in student trajectories and identify patterns associated with postsecondary STEM readiness. The second project uses machine learning models to estimate the relative importance of demographic, academic, and contextual factors in predicting postsecondary STEM readiness and STEM credential attainment. Findings will inform future investment strategies and provide empirical evidence to support data-informed decision-making by MiSTEM leadership and state education policymakers.
 
 ### Developing a Survey of Student Epistemologies and Expectations About Computing in Physics Courses
 #### Folks involved: A. Reynolds (co-lead), R. Roca (co-lead), D. Caballero
