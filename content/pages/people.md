@@ -3,9 +3,9 @@ Slug: people
 
 ## Group Leaders
 
-### [Danny Caballero](https://dannycab.github.io/) (he/him)
+### [Danny Caballero](https://dannycab.github.io/) (he/they)
 <img src="/assets/img/DannyCaballero_headshot.jpeg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Danny Caballero">
-Danny is an associate professor in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He holds the Lappan-Phillips Chair of Physics Education, co-directs the [Physics Education Research Lab](https://perl.natsci.msu.edu), and is the principal investigator of the [Learning Machines Lab](https://learningmachineslab.github.io). He earned his Bachelor's degree in physics from the [University of Texas at Austin](https://ph.utexas.edu), and his Master's and PhD in physics from the [Georgia Institute of Technology](https://physics.gatech.edu). Danny worked as a Science Teaching Postdoctoral Fellow at the [University of Colorado Boulder](https://www.colorado.edu/physics) before joining the faculty at Michigan State. His research focuses on computational education and the use of data science to address questions in STEM education. In his free time, he bikes, skateboards, and barbecues.
+Danny is a full professor in the [Department of Physics and Astronomy](https://pa.msu.edu) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu). He holds the Lappan-Phillips Chair of Math and Science Education and co-directs the [Physics Education Research Lab](https://perl.natsci.msu.edu). He earned his Bachelor's degree in physics from the [University of Texas at Austin](https://ph.utexas.edu), and his Master's and PhD in physics from the [Georgia Institute of Technology](https://physics.gatech.edu). Danny worked as a Science Teaching Postdoctoral Fellow at the [University of Colorado Boulder](https://www.colorado.edu/physics) before joining the faculty at Michigan State in 2013. His research focuses on computational education and the use of data science to address questions in STEM education. In his free time, he bikes, skateboards, and barbecues.
 
 ### Rachel Frisbie (she/her)
 <img src="/assets/img/frisbie_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Rachel Frisbie">
